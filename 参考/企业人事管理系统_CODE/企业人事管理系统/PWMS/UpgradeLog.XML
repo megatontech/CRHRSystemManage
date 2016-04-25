@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="PWMS">
+</Property><Property Name="解决方案文件" Value="C:\Users\Administrator\Downloads\049008209qihrCSHARP\qihrCSHARP\企业人事管理系统\PWMS\PWMS.sln">
+</Property><Property Name="用户选项文件" Value="C:\Users\Administrator\Downloads\049008209qihrCSHARP\qihrCSHARP\企业人事管理系统\PWMS\PWMS.suo">
+</Property><Property Name="Date" Value="2015年1月25日">
+</Property><Property Name="Time" Value="21:49">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="PWMS.sln" Description="文件已成功备份为 C:\Users\Administrator\Downloads\049008209qihrCSHARP\qihrCSHARP\企业人事管理系统\PWMS\Backup\PWMS.sln">
+</Event><Event ErrorLevel="0" Project="" Source="PWMS.suo" Description="文件已成功备份为 C:\Users\Administrator\Downloads\049008209qihrCSHARP\qihrCSHARP\企业人事管理系统\PWMS\Backup\PWMS.suo">
+</Event><Event ErrorLevel="0" Project="PWMS" Source="PWMS\PWMS.csproj" Description="项目文件已成功备份为 C:\Users\Administrator\Downloads\049008209qihrCSHARP\qihrCSHARP\企业人事管理系统\PWMS\Backup\PWMS\PWMS.csproj">
+</Event><Event ErrorLevel="0" Project="PWMS" Source="PWMS\DataClass\MyMeans.cs" Description="文件已成功备份为 C:\Users\Administrator\Downloads\049008209qihrCSHARP\qihrCSHARP\企业人事管理系统\PWMS\Backup\PWMS\DataClass\MyMeans.cs">
+</Event><Event ErrorLevel="0" Project="PWMS" Source="PWMS\F_Login.cs" Description="文件已成功备份为 C:\Users\Administrator\Downloads\049008209qihrCSHARP\qihrCSHARP\企业人事管理系统\PWMS\Backup\PWMS\F_Login.cs">
+</Event><Event ErrorLevel="0" Project="PWMS" Source="PWMS\F_Login.designer.cs" Description="文件已成功备份为 C:\Users\Administrator\Downloads\049008209qihrCSHARP\qihrCSHARP\企业人事管理系统\PWMS\Backup\PWMS\F_Login.designer.cs">
+</Event><Event ErrorLevel="0" Project="PWMS" Source="PWMS\F_Main.cs" Description="文件已成功备份为 C:\Users\Administrator\Downloads\049008209qihrCSHARP\qihrCSHARP\企业人事管理系统\PWMS\Backup\PWMS\F_Main.cs">
+</Event><Event ErrorLevel="0" Project="PWMS" Source="PWMS\F_Main.designer.cs" Description="文件已成功备份为 C:\Users\Administrator\Downloads\049008209qihrCSHARP\qihrCSHARP\企业人事管理系统\PWMS\Backup\PWMS\F_Main.designer.cs">
+</Event><Event ErrorLevel="0" Project="PWMS" Source="PWMS\InfoAddForm\F_Address.cs" Description="文件已成功备份为 C:\Users\Administrator\Downloads\049008209qihrCSHARP\qihrCSHARP\企业人事管理系统\PWMS\Backup\PWMS\InfoAddForm\F_Address.cs">
+</Event><Event ErrorLevel="0" Project="PWMS" Source="PWMS\InfoAddForm\F_Address.Designer.cs" Description="文件已成功备份为 C:\Users\Administrator\Downloads\049008209qihrCSHARP\qihrCSHARP\企业人事管理系统\PWMS\Backup\PWMS\InfoAddForm\F_Address.Designer.cs">
+</Event><Event ErrorLevel="0" Project="PWMS" Source="PWMS\InfoAddForm\F_Basic.cs" Description="文件已成功备份为 C:\Users\Administrator\Downloads\049008209qihrCSHARP\qihrCSHARP\企业人事管理系统\PWMS\Backup\PWMS\InfoAddForm\F_Basic.cs">
+</Event><Event ErrorLevel="0" Project="PWMS" Source="PWMS\InfoAddForm\F_Basic.Designer.cs" Description="文件已成功备份为 C:\Users\Administrator\Downloads\049008209qihrCSHARP\qihrCSHARP\企业人事管理系统\PWMS\Backup\PWMS\InfoAddForm\F_Basic.Designer.cs">
+</Event><Event ErrorLevel="0" Project="PWMS" Source="PWMS\InfoAddForm\F_ClewSet.cs" Description="文件已成功备份为 C:\Users\Administrator\Downloads\049008209qihrCSHARP\qihrCSHARP\企业人事管理系统\PWMS\Backup\PWMS\InfoAddForm\F_ClewSet.cs">
+</Event><Event ErrorLevel="0" Project="PWMS" Source="PWMS\InfoAddForm\F_ClewSet.Designer.cs" Description="文件已成功备份为 C:\Users\Administrator\Downloads\049008209qihrCSHARP\qihrCSHARP\企业人事管理系统\PWMS\Backup\PWMS\InfoAddForm\F_ClewSet.Designer.cs">
+</Event><Event ErrorLevel="0" Project="PWMS" Source="PWMS\ModuleClass\MyModule.cs" Description="文件已成功备份为 C:\Users\Administrator\Downloads\049008209qihrCSHARP\qihrCSHARP\企业人事管理系统\PWMS\Backup\PWMS\ModuleClass\MyModule.cs">
+</Event><Event ErrorLevel="0" Project="PWMS" Source="PWMS\PerForm\F_AddressList.cs" Description="文件已成功备份为 C:\Users\Administrator\Downloads\049008209qihrCSHARP\qihrCSHARP\企业人事管理系统\PWMS\Backup\PWMS\PerForm\F_AddressList.cs">
+</Event><Event ErrorLevel="0" Project="PWMS" Source="PWMS\PerForm\F_AddressList.Designer.cs" Description="文件已成功备份为 C:\Users\Administrator\Downloads\049008209qihrCSHARP\qihrCSHARP\企业人事管理系统\PWMS\Backup\PWMS\PerForm\F_AddressList.Designer.cs">
+</Event><Event ErrorLevel="0" Project="PWMS" Source="PWMS\PerForm\F_ClearData.cs" Description="文件已成功备份为 C:\Users\Administrator\Downloads\049008209qihrCSHARP\qihrCSHARP\企业人事管理系统\PWMS\Backup\PWMS\PerForm\F_ClearData.cs">
+</Event><Event ErrorLevel="0" Project="PWMS" Source="PWMS\PerForm\F_ClearData.Designer.cs" Description="文件已成功备份为 C:\Users\Administrator\Downloads\049008209qihrCSHARP\qihrCSHARP\企业人事管理系统\PWMS\Backup\PWMS\PerForm\F_ClearData.Designer.cs">
+</Event><Event ErrorLevel="0" Project="PWMS" Source="PWMS\PerForm\F_Find.cs" Description="文件已成功备份为 C:\Users\Administrator\Downloads\049008209qihrCSHARP\qihrCSHARP\企业人事管理系统\PWMS\Backup\PWMS\PerForm\F_Find.cs">
+</Event><Event ErrorLevel="0" Project="PWMS" Source="PWMS\PerForm\F_Find.Designer.cs" Description="文件已成功备份为 C:\Users\Administrator\Downloads\049008209qihrCSHARP\qihrCSHARP\企业人事管理系统\PWMS\Backup\PWMS\PerForm\F_Find.Designer.cs">
+</Event><Event ErrorLevel="0" Project="PWMS" Source="PWMS\PerForm\F_HaveBack.cs" Description="文件已成功备份为 C:\Users\Administrator\Downloads\049008209qihrCSHARP\qihrCSHARP\企业人事管理系统\PWMS\Backup\PWMS\PerForm\F_HaveBack.cs">
+</Event><Event ErrorLevel="0" Project="PWMS" Source="PWMS\PerForm\F_HaveBack.Designer.cs" Description="文件已成功备份为 C:\Users\Administrator\Downloads\049008209qihrCSHARP\qihrCSHARP\企业人事管理系统\PWMS\Backup\PWMS\PerForm\F_HaveBack.Designer.cs">
+</Event><Event ErrorLevel="0" Project="PWMS" Source="PWMS\PerForm\F_ManFile.cs" Description="文件已成功备份为 C:\Users\Administrator\Downloads\049008209qihrCSHARP\qihrCSHARP\企业人事管理系统\PWMS\Backup\PWMS\PerForm\F_ManFile.cs">
+</Event><Event ErrorLevel="0" Project="PWMS" Source="PWMS\PerForm\F_ManFile.Designer.cs" Description="文件已成功备份为 C:\Users\Administrator\Downloads\049008209qihrCSHARP\qihrCSHARP\企业人事管理系统\PWMS\Backup\PWMS\PerForm\F_ManFile.Designer.cs">
+</Event><Event ErrorLevel="0" Project="PWMS" Source="PWMS\PerForm\F_Stat.cs" Description="文件已成功备份为 C:\Users\Administrator\Downloads\049008209qihrCSHARP\qihrCSHARP\企业人事管理系统\PWMS\Backup\PWMS\PerForm\F_Stat.cs">
+</Event><Event ErrorLevel="0" Project="PWMS" Source="PWMS\PerForm\F_Stat.Designer.cs" Description="文件已成功备份为 C:\Users\Administrator\Downloads\049008209qihrCSHARP\qihrCSHARP\企业人事管理系统\PWMS\Backup\PWMS\PerForm\F_Stat.Designer.cs">
+</Event><Event ErrorLevel="0" Project="PWMS" Source="PWMS\PerForm\F_User.cs" Description="文件已成功备份为 C:\Users\Administrator\Downloads\049008209qihrCSHARP\qihrCSHARP\企业人事管理系统\PWMS\Backup\PWMS\PerForm\F_User.cs">
+</Event><Event ErrorLevel="0" Project="PWMS" Source="PWMS\PerForm\F_User.Designer.cs" Description="文件已成功备份为 C:\Users\Administrator\Downloads\049008209qihrCSHARP\qihrCSHARP\企业人事管理系统\PWMS\Backup\PWMS\PerForm\F_User.Designer.cs">
+</Event><Event ErrorLevel="0" Project="PWMS" Source="PWMS\PerForm\F_UserAdd.cs" Description="文件已成功备份为 C:\Users\Administrator\Downloads\049008209qihrCSHARP\qihrCSHARP\企业人事管理系统\PWMS\Backup\PWMS\PerForm\F_UserAdd.cs">
+</Event><Event ErrorLevel="0" Project="PWMS" Source="PWMS\PerForm\F_UserAdd.Designer.cs" Description="文件已成功备份为 C:\Users\Administrator\Downloads\049008209qihrCSHARP\qihrCSHARP\企业人事管理系统\PWMS\Backup\PWMS\PerForm\F_UserAdd.Designer.cs">
+</Event><Event ErrorLevel="0" Project="PWMS" Source="PWMS\PerForm\F_UserPope.cs" Description="文件已成功备份为 C:\Users\Administrator\Downloads\049008209qihrCSHARP\qihrCSHARP\企业人事管理系统\PWMS\Backup\PWMS\PerForm\F_UserPope.cs">
+</Event><Event ErrorLevel="0" Project="PWMS" Source="PWMS\PerForm\F_UserPope.Designer.cs" Description="文件已成功备份为 C:\Users\Administrator\Downloads\049008209qihrCSHARP\qihrCSHARP\企业人事管理系统\PWMS\Backup\PWMS\PerForm\F_UserPope.Designer.cs">
+</Event><Event ErrorLevel="0" Project="PWMS" Source="PWMS\PerForm\F_WordPad.cs" Description="文件已成功备份为 C:\Users\Administrator\Downloads\049008209qihrCSHARP\qihrCSHARP\企业人事管理系统\PWMS\Backup\PWMS\PerForm\F_WordPad.cs">
+</Event><Event ErrorLevel="0" Project="PWMS" Source="PWMS\PerForm\F_WordPad.Designer.cs" Description="文件已成功备份为 C:\Users\Administrator\Downloads\049008209qihrCSHARP\qihrCSHARP\企业人事管理系统\PWMS\Backup\PWMS\PerForm\F_WordPad.Designer.cs">
+</Event><Event ErrorLevel="0" Project="PWMS" Source="PWMS\Program.cs" Description="文件已成功备份为 C:\Users\Administrator\Downloads\049008209qihrCSHARP\qihrCSHARP\企业人事管理系统\PWMS\Backup\PWMS\Program.cs">
+</Event><Event ErrorLevel="0" Project="PWMS" Source="PWMS\Properties\AssemblyInfo.cs" Description="文件已成功备份为 C:\Users\Administrator\Downloads\049008209qihrCSHARP\qihrCSHARP\企业人事管理系统\PWMS\Backup\PWMS\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="PWMS" Source="PWMS\Properties\Resources.Designer.cs" Description="文件已成功备份为 C:\Users\Administrator\Downloads\049008209qihrCSHARP\qihrCSHARP\企业人事管理系统\PWMS\Backup\PWMS\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="PWMS" Source="PWMS\Properties\Settings.Designer.cs" Description="文件已成功备份为 C:\Users\Administrator\Downloads\049008209qihrCSHARP\qihrCSHARP\企业人事管理系统\PWMS\Backup\PWMS\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="PWMS" Source="PWMS\Properties\Settings.settings" Description="文件已成功备份为 C:\Users\Administrator\Downloads\049008209qihrCSHARP\qihrCSHARP\企业人事管理系统\PWMS\Backup\PWMS\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="PWMS" Source="PWMS\F_Login.resx" Description="文件已成功备份为 C:\Users\Administrator\Downloads\049008209qihrCSHARP\qihrCSHARP\企业人事管理系统\PWMS\Backup\PWMS\F_Login.resx">
+</Event><Event ErrorLevel="0" Project="PWMS" Source="PWMS\F_Main.resx" Description="文件已成功备份为 C:\Users\Administrator\Downloads\049008209qihrCSHARP\qihrCSHARP\企业人事管理系统\PWMS\Backup\PWMS\F_Main.resx">
+</Event><Event ErrorLevel="0" Project="PWMS" Source="PWMS\InfoAddForm\F_Address.resx" Description="文件已成功备份为 C:\Users\Administrator\Downloads\049008209qihrCSHARP\qihrCSHARP\企业人事管理系统\PWMS\Backup\PWMS\InfoAddForm\F_Address.resx">
+</Event><Event ErrorLevel="0" Project="PWMS" Source="PWMS\InfoAddForm\F_Basic.resx" Description="文件已成功备份为 C:\Users\Administrator\Downloads\049008209qihrCSHARP\qihrCSHARP\企业人事管理系统\PWMS\Backup\PWMS\InfoAddForm\F_Basic.resx">
+</Event><Event ErrorLevel="0" Project="PWMS" Source="PWMS\InfoAddForm\F_ClewSet.resx" Description="文件已成功备份为 C:\Users\Administrator\Downloads\049008209qihrCSHARP\qihrCSHARP\企业人事管理系统\PWMS\Backup\PWMS\InfoAddForm\F_ClewSet.resx">
+</Event><Event ErrorLevel="0" Project="PWMS" Source="PWMS\PerForm\F_AddressList.resx" Description="文件已成功备份为 C:\Users\Administrator\Downloads\049008209qihrCSHARP\qihrCSHARP\企业人事管理系统\PWMS\Backup\PWMS\PerForm\F_AddressList.resx">
+</Event><Event ErrorLevel="0" Project="PWMS" Source="PWMS\PerForm\F_ClearData.resx" Description="文件已成功备份为 C:\Users\Administrator\Downloads\049008209qihrCSHARP\qihrCSHARP\企业人事管理系统\PWMS\Backup\PWMS\PerForm\F_ClearData.resx">
+</Event><Event ErrorLevel="0" Project="PWMS" Source="PWMS\PerForm\F_Find.resx" Description="文件已成功备份为 C:\Users\Administrator\Downloads\049008209qihrCSHARP\qihrCSHARP\企业人事管理系统\PWMS\Backup\PWMS\PerForm\F_Find.resx">
+</Event><Event ErrorLevel="0" Project="PWMS" Source="PWMS\PerForm\F_HaveBack.resx" Description="文件已成功备份为 C:\Users\Administrator\Downloads\049008209qihrCSHARP\qihrCSHARP\企业人事管理系统\PWMS\Backup\PWMS\PerForm\F_HaveBack.resx">
+</Event><Event ErrorLevel="0" Project="PWMS" Source="PWMS\PerForm\F_ManFile.resx" Description="文件已成功备份为 C:\Users\Administrator\Downloads\049008209qihrCSHARP\qihrCSHARP\企业人事管理系统\PWMS\Backup\PWMS\PerForm\F_ManFile.resx">
+</Event><Event ErrorLevel="0" Project="PWMS" Source="PWMS\PerForm\F_Stat.resx" Description="文件已成功备份为 C:\Users\Administrator\Downloads\049008209qihrCSHARP\qihrCSHARP\企业人事管理系统\PWMS\Backup\PWMS\PerForm\F_Stat.resx">
+</Event><Event ErrorLevel="0" Project="PWMS" Source="PWMS\PerForm\F_User.resx" Description="文件已成功备份为 C:\Users\Administrator\Downloads\049008209qihrCSHARP\qihrCSHARP\企业人事管理系统\PWMS\Backup\PWMS\PerForm\F_User.resx">
+</Event><Event ErrorLevel="0" Project="PWMS" Source="PWMS\PerForm\F_UserAdd.resx" Description="文件已成功备份为 C:\Users\Administrator\Downloads\049008209qihrCSHARP\qihrCSHARP\企业人事管理系统\PWMS\Backup\PWMS\PerForm\F_UserAdd.resx">
+</Event><Event ErrorLevel="0" Project="PWMS" Source="PWMS\PerForm\F_UserPope.resx" Description="文件已成功备份为 C:\Users\Administrator\Downloads\049008209qihrCSHARP\qihrCSHARP\企业人事管理系统\PWMS\Backup\PWMS\PerForm\F_UserPope.resx">
+</Event><Event ErrorLevel="0" Project="PWMS" Source="PWMS\PerForm\F_WordPad.resx" Description="文件已成功备份为 C:\Users\Administrator\Downloads\049008209qihrCSHARP\qihrCSHARP\企业人事管理系统\PWMS\Backup\PWMS\PerForm\F_WordPad.resx">
+</Event><Event ErrorLevel="0" Project="PWMS" Source="PWMS\Properties\Resources.resx" Description="文件已成功备份为 C:\Users\Administrator\Downloads\049008209qihrCSHARP\qihrCSHARP\企业人事管理系统\PWMS\Backup\PWMS\Properties\Resources.resx">
+</Event><Event ErrorLevel="1" Project="PWMS" Source="PWMS\PWMS.csproj" Description="您的项目以 .NET Framework 2.0 或 3.0 为目标。如果您的项目使用的程序集需要更新的 .NET Framework，则项目生成将失败。通过单击项目菜单上的“属性”，然后在“.NET Framework”下拉框中选择一个新版本，可以更改 .NET Framework 的版本。(在 Visual Basic 中，可在单击“高级编辑器选项...”按钮时显示的“编译”选项卡上找到此下拉框。)">
+</Event><Event ErrorLevel="0" Project="PWMS" Source="PWMS\PWMS.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="PWMS" Source="PWMS\PWMS.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="PWMS.sln" Description="成功转换解决方案">
+</Event><Event ErrorLevel="3" Project="" Source="PWMS.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="PWMS" Source="PWMS\PWMS.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event></UpgradeLog>

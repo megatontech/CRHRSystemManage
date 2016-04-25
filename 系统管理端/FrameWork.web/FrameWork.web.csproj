@@ -1,0 +1,659 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{65E8F2D4-0443-483D-A20F-F3725390AE03}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>FrameWork.web</RootNamespace>
+    <AssemblyName>FrameWork.web</AssemblyName>
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
+    <SccAuxPath>
+    </SccAuxPath>
+    <SccProvider>
+    </SccProvider>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <UseIISExpress>false</UseIISExpress>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <DocumentationFile>
+    </DocumentationFile>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.DataSetExtensions, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Extensions, Version=3.5.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Web.Extensions.Design, Version=3.5.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+    <Reference Include="System.Web.Mobile" />
+    <Reference Include="System.Xml.Linq, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="cookies.aspx" />
+    <Content Include="Default.aspx" />
+    <Content Include="Login.aspx" />
+    <Content Include="Web.config">
+      <SubType>Designer</SubType>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="about.aspx.cs">
+      <SubType>ASPXCodeBehind</SubType>
+      <DependentUpon>about.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="about.aspx.designer.cs">
+      <DependentUpon>about.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="cookies.aspx.cs">
+      <DependentUpon>cookies.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="cookies.aspx.designer.cs">
+      <DependentUpon>cookies.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Default.aspx.cs">
+      <DependentUpon>Default.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Default.aspx.designer.cs">
+      <DependentUpon>Default.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="DownLoadFile.aspx.cs">
+      <SubType>ASPXCodeBehind</SubType>
+      <DependentUpon>DownLoadFile.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="DownLoadFile.aspx.designer.cs">
+      <DependentUpon>DownLoadFile.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="inc\Codeimg.aspx.cs">
+      <SubType>ASPXCodeBehind</SubType>
+      <DependentUpon>Codeimg.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="left.aspx.cs">
+      <DependentUpon>left.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="left.aspx.designer.cs">
+      <DependentUpon>left.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Login.aspx.cs">
+      <DependentUpon>Login.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Login.aspx.designer.cs">
+      <DependentUpon>Login.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="LoginOut.aspx.cs">
+      <DependentUpon>LoginOut.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="LoginOut.aspx.designer.cs">
+      <DependentUpon>LoginOut.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="MasterPage\PageTemplate.Master.cs">
+      <DependentUpon>PageTemplate.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="MasterPage\PageTemplate.Master.designer.cs">
+      <DependentUpon>PageTemplate.Master</DependentUpon>
+    </Compile>
+    <Compile Include="Menu1.aspx.cs">
+      <SubType>ASPXCodeBehind</SubType>
+      <DependentUpon>Menu1.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Menu1.aspx.designer.cs">
+      <DependentUpon>Menu1.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Menu1_Button.aspx.cs">
+      <SubType>ASPXCodeBehind</SubType>
+      <DependentUpon>Menu1_Button.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Menu1_Button.aspx.designer.cs">
+      <DependentUpon>Menu1_Button.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Menu1_Disp.aspx.cs">
+      <SubType>ASPXCodeBehind</SubType>
+      <DependentUpon>Menu1_Disp.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Menu1_Disp.aspx.designer.cs">
+      <DependentUpon>Menu1_Disp.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Menu2.aspx.cs">
+      <SubType>ASPXCodeBehind</SubType>
+      <DependentUpon>Menu2.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Menu2.aspx.designer.cs">
+      <DependentUpon>Menu2.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Messages.aspx.cs">
+      <DependentUpon>Messages.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Messages.aspx.designer.cs">
+      <DependentUpon>Messages.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Module\FrameWork\SystemApp\AppManager\AppManager.aspx.cs">
+      <SubType>ASPXCodeBehind</SubType>
+      <DependentUpon>AppManager.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Module\FrameWork\SystemApp\AppManager\AppManager.aspx.designer.cs">
+      <DependentUpon>AppManager.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Module\FrameWork\SystemApp\AppManager\List.aspx.cs">
+      <SubType>ASPXCodeBehind</SubType>
+      <DependentUpon>List.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Module\FrameWork\SystemApp\AppManager\List.aspx.designer.cs">
+      <DependentUpon>List.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Module\FrameWork\SystemApp\EventManager\default.aspx.cs">
+      <SubType>ASPXCodeBehind</SubType>
+      <DependentUpon>default.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Module\FrameWork\SystemApp\EventManager\default.aspx.designer.cs">
+      <DependentUpon>default.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Module\FrameWork\SystemApp\EventManager\EventDisp.aspx.cs">
+      <SubType>ASPXCodeBehind</SubType>
+      <DependentUpon>EventDisp.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Module\FrameWork\SystemApp\EventManager\EventDisp.aspx.designer.cs">
+      <DependentUpon>EventDisp.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Module\FrameWork\SystemApp\FieldManager\default.aspx.cs">
+      <SubType>ASPXCodeBehind</SubType>
+      <DependentUpon>default.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Module\FrameWork\SystemApp\FieldManager\default.aspx.designer.cs">
+      <DependentUpon>default.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Module\FrameWork\SystemApp\FieldManager\FieldValueBox.aspx.cs">
+      <SubType>ASPXCodeBehind</SubType>
+      <DependentUpon>FieldValueBox.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Module\FrameWork\SystemApp\FieldManager\FieldValueBox.aspx.designer.cs">
+      <DependentUpon>FieldValueBox.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Module\FrameWork\SystemApp\FieldManager\FieldValueManager.aspx.cs">
+      <SubType>ASPXCodeBehind</SubType>
+      <DependentUpon>FieldValueManager.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Module\FrameWork\SystemApp\FieldManager\FieldValueManager.aspx.designer.cs">
+      <DependentUpon>FieldValueManager.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Module\FrameWork\SystemApp\GroupManager\CatIndex.aspx.cs">
+      <SubType>ASPXCodeBehind</SubType>
+      <DependentUpon>CatIndex.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Module\FrameWork\SystemApp\GroupManager\CatIndex.aspx.designer.cs">
+      <DependentUpon>CatIndex.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Module\FrameWork\SystemApp\GroupManager\Edit.aspx.cs">
+      <SubType>ASPXCodeBehind</SubType>
+      <DependentUpon>Edit.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Module\FrameWork\SystemApp\GroupManager\Edit.aspx.designer.cs">
+      <DependentUpon>Edit.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Module\FrameWork\SystemApp\GroupManager\Frame.aspx.cs">
+      <SubType>ASPXCodeBehind</SubType>
+      <DependentUpon>Frame.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Module\FrameWork\SystemApp\GroupManager\Frame.aspx.designer.cs">
+      <DependentUpon>Frame.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Module\FrameWork\SystemApp\GroupManager\GroupList.aspx.cs">
+      <SubType>ASPXCodeBehind</SubType>
+      <DependentUpon>GroupList.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Module\FrameWork\SystemApp\GroupManager\GroupList.aspx.designer.cs">
+      <DependentUpon>GroupList.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Module\FrameWork\SystemApp\GroupManager\Move.aspx.cs">
+      <SubType>ASPXCodeBehind</SubType>
+      <DependentUpon>Move.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Module\FrameWork\SystemApp\GroupManager\Move.aspx.designer.cs">
+      <DependentUpon>Move.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Module\FrameWork\SystemApp\GroupManager\New.aspx.cs">
+      <SubType>ASPXCodeBehind</SubType>
+      <DependentUpon>New.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Module\FrameWork\SystemApp\GroupManager\New.aspx.designer.cs">
+      <DependentUpon>New.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Module\FrameWork\SystemApp\GroupManager\Orderby.aspx.cs">
+      <SubType>ASPXCodeBehind</SubType>
+      <DependentUpon>Orderby.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Module\FrameWork\SystemApp\GroupManager\Orderby.aspx.designer.cs">
+      <DependentUpon>Orderby.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Module\FrameWork\SystemApp\ModuleManager\List.aspx.cs">
+      <SubType>ASPXCodeBehind</SubType>
+      <DependentUpon>List.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Module\FrameWork\SystemApp\ModuleManager\List.aspx.designer.cs">
+      <DependentUpon>List.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Module\FrameWork\SystemApp\ModuleManager\ModuleList.aspx.cs">
+      <SubType>ASPXCodeBehind</SubType>
+      <DependentUpon>ModuleList.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Module\FrameWork\SystemApp\ModuleManager\ModuleList.aspx.designer.cs">
+      <DependentUpon>ModuleList.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Module\FrameWork\SystemApp\ModuleManager\moduleManager.aspx.cs">
+      <SubType>ASPXCodeBehind</SubType>
+      <DependentUpon>moduleManager.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Module\FrameWork\SystemApp\ModuleManager\moduleManager.aspx.designer.cs">
+      <DependentUpon>moduleManager.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Module\FrameWork\SystemApp\OnlineUserManager\default.aspx.cs">
+      <SubType>ASPXCodeBehind</SubType>
+      <DependentUpon>default.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Module\FrameWork\SystemApp\OnlineUserManager\default.aspx.designer.cs">
+      <DependentUpon>default.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Module\FrameWork\SystemApp\RoleManager\RoleList.aspx.cs">
+      <SubType>ASPXCodeBehind</SubType>
+      <DependentUpon>RoleList.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Module\FrameWork\SystemApp\RoleManager\RoleList.aspx.designer.cs">
+      <DependentUpon>RoleList.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Module\FrameWork\SystemApp\RoleManager\RoleManager.aspx.cs">
+      <SubType>ASPXCodeBehind</SubType>
+      <DependentUpon>RoleManager.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Module\FrameWork\SystemApp\RoleManager\RoleManager.aspx.designer.cs">
+      <DependentUpon>RoleManager.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Module\FrameWork\SystemApp\RoleManager\RolePermissionManager.aspx.cs">
+      <SubType>ASPXCodeBehind</SubType>
+      <DependentUpon>RolePermissionManager.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Module\FrameWork\SystemApp\RoleManager\RolePermissionManager.aspx.designer.cs">
+      <DependentUpon>RolePermissionManager.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Module\FrameWork\SystemMaintenance\SystemConfig\default.aspx.cs">
+      <SubType>ASPXCodeBehind</SubType>
+      <DependentUpon>default.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Module\FrameWork\SystemMaintenance\SystemConfig\default.aspx.designer.cs">
+      <DependentUpon>default.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Module\FrameWork\SystemMaintenance\SystemErrorLog\default.aspx.cs">
+      <SubType>ASPXCodeBehind</SubType>
+      <DependentUpon>default.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Module\FrameWork\SystemMaintenance\SystemErrorLog\default.aspx.designer.cs">
+      <DependentUpon>default.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Module\FrameWork\SystemMaintenance\SystemState\default.aspx.cs">
+      <DependentUpon>default.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Module\FrameWork\SystemMaintenance\SystemState\default.aspx.designer.cs">
+      <DependentUpon>default.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Module\FrameWork\SystemApp\UserManager\Default.aspx.cs">
+      <SubType>ASPXCodeBehind</SubType>
+      <DependentUpon>Default.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Module\FrameWork\SystemApp\UserManager\Default.aspx.designer.cs">
+      <DependentUpon>Default.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Module\FrameWork\SystemApp\UserManager\SelectGroup.aspx.cs">
+      <SubType>ASPXCodeBehind</SubType>
+      <DependentUpon>SelectGroup.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Module\FrameWork\SystemApp\UserManager\SelectGroup.aspx.designer.cs">
+      <DependentUpon>SelectGroup.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Module\FrameWork\SystemApp\UserManager\UserManager.aspx.cs">
+      <SubType>ASPXCodeBehind</SubType>
+      <DependentUpon>UserManager.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Module\FrameWork\SystemApp\UserManager\UserManager.aspx.designer.cs">
+      <DependentUpon>UserManager.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="right.aspx.cs">
+      <DependentUpon>right.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="right.aspx.designer.cs">
+      <DependentUpon>right.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="UserSet.aspx.cs">
+      <SubType>ASPXCodeBehind</SubType>
+      <DependentUpon>UserSet.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="UserSet.aspx.designer.cs">
+      <DependentUpon>UserSet.aspx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\FrameWork\FrameWork.csproj">
+      <Project>{A3D89A80-19B8-4F6A-9381-8E15D41179AC}</Project>
+      <Name>FrameWork</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Css\Site_Css.css" />
+    <Content Include="favicon.ico" />
+    <Content Include="images\Button_On.GIF" />
+    <Content Include="images\Button_Over.GIF" />
+    <Content Include="images\controls4.gif" />
+    <Content Include="images\down01.gif" />
+    <Content Include="images\Help.gif" />
+    <Content Include="images\house.gif" />
+    <Content Include="images\ICON\1.gif" />
+    <Content Include="images\ICON\10.gif" />
+    <Content Include="images\ICON\2.gif" />
+    <Content Include="images\ICON\3.gif" />
+    <Content Include="images\ICON\4.gif" />
+    <Content Include="images\ICON\5.gif" />
+    <Content Include="images\ICON\6.gif" />
+    <Content Include="images\ICON\7.gif" />
+    <Content Include="images\ICON\8.gif" />
+    <Content Include="images\ICON\9.gif" />
+    <Content Include="images\ICON\default.gif" />
+    <Content Include="images\ICON\icon.gif" />
+    <Content Include="images\Logo.gif" />
+    <Content Include="images\logon\Logon_1.gif" />
+    <Content Include="images\logon\Logon_10.gif" />
+    <Content Include="images\logon\Logon_11.gif" />
+    <Content Include="images\logon\Logon_2.gif" />
+    <Content Include="images\logon\Logon_3.gif" />
+    <Content Include="images\logon\Logon_4.gif" />
+    <Content Include="images\logon\Logon_5.gif" />
+    <Content Include="images\logon\Logon_6.gif" />
+    <Content Include="images\logon\Logon_7.gif" />
+    <Content Include="images\logon\Logon_8.gif" />
+    <Content Include="images\logon\Logon_9.gif" />
+    <Content Include="images\logout.gif" />
+    <Content Include="images\Menu\arrow.gif" />
+    <Content Include="images\Menu\box_bg.gif" />
+    <Content Include="images\Menu\box_bottom.gif" />
+    <Content Include="images\Menu\box_topbg.gif" />
+    <Content Include="images\Menu\box_topleft.gif" />
+    <Content Include="images\Menu\box_topright.gif" />
+    <Content Include="images\Menu\close.gif" />
+    <Content Include="images\Menu\close_on.gif" />
+    <Content Include="images\Menu\Cshare.gif" />
+    <Content Include="images\Menu\Delphi.gif" />
+    <Content Include="images\Menu\folder_add.gif" />
+    <Content Include="images\Menu\folder_move.gif" />
+    <Content Include="images\Menu\open.gif" />
+    <Content Include="images\Menu\open_on.gif" />
+    <Content Include="images\Menu\Perl.gif" />
+    <Content Include="images\Menu\PHP.gif" />
+    <Content Include="images\Menu\tab_active_bg.gif" />
+    <Content Include="images\Menu\tab_active_left.gif" />
+    <Content Include="images\Menu\tab_active_right.gif" />
+    <Content Include="images\Menu\tab_bg.gif" />
+    <Content Include="images\Menu\tab_top_bg.gif" />
+    <Content Include="images\Menu\tab_unactive_bg.gif" />
+    <Content Include="images\Menu\tab_unactive_left.gif" />
+    <Content Include="images\Menu\tab_unactive_right.gif" />
+    <Content Include="images\Menu\twist.gif" />
+    <Content Include="images\MessageIcon\MessageAlert.gif" />
+    <Content Include="images\MessageIcon\MessageBody.gif" />
+    <Content Include="images\MessageIcon\MessageEnd.gif" />
+    <Content Include="images\MessageIcon\MessageError.gif" />
+    <Content Include="images\MessageIcon\MessageHead.gif" />
+    <Content Include="images\MessageIcon\MessageOk.gif" />
+    <Content Include="images\MinLogo.gif" />
+    <Content Include="images\NotImage.gif" />
+    <Content Include="images\top-gray.gif" />
+    <Content Include="images\TreeIcon\ftv2blank.gif" />
+    <Content Include="images\TreeIcon\ftv2doc.gif" />
+    <Content Include="images\TreeIcon\ftv2folderclosed.gif" />
+    <Content Include="images\TreeIcon\ftv2folderopen.gif" />
+    <Content Include="images\TreeIcon\ftv2lastnode.gif" />
+    <Content Include="images\TreeIcon\ftv2mlastnode.gif" />
+    <Content Include="images\TreeIcon\ftv2mnode.gif" />
+    <Content Include="images\TreeIcon\ftv2node.gif" />
+    <Content Include="images\TreeIcon\ftv2plastnode.gif" />
+    <Content Include="images\TreeIcon\ftv2pnode.gif" />
+    <Content Include="images\TreeIcon\ftv2vertline.gif" />
+    <Content Include="images\up01.gif" />
+    <Content Include="inc\Codeimg.aspx" />
+    <Content Include="inc\Page_Guage.aspx" />
+    <Content Include="left.aspx" />
+    <Content Include="LoginOut.aspx" />
+    <Content Include="Messages.aspx" />
+    <Content Include="Module\FrameWork\SystemApp\AppManager\Web.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="images\ICON\a.gif" />
+    <Content Include="images\ICON\b.gif" />
+    <Content Include="images\ICON\back.gif" />
+    <Content Include="images\ICON\delete.gif" />
+    <Content Include="images\ICON\edit.gif" />
+    <Content Include="images\ICON\list.gif" />
+    <Content Include="images\ICON\look.gif" />
+    <Content Include="images\ICON\move.gif" />
+    <Content Include="images\ICON\new.gif" />
+    <Content Include="images\ICON\office.gif" />
+    <Content Include="images\ICON\orderby.gif" />
+    <Content Include="images\ICON\print.gif" />
+    <Content Include="images\ICON\select.gif" />
+    <Content Include="MasterPage\PageTemplate.Master" />
+    <Content Include="Module\FrameWork\SystemApp\AppManager\List.aspx" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="App_Themes\Standard\GridView.skin" />
+    <Content Include="images\thead_bg.gif" />
+    <Content Include="Module\FrameWork\SystemApp\AppManager\AppManager.aspx" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="js\Tree.js" />
+    <Content Include="Module\FrameWork\SystemApp\GroupManager\CatIndex.aspx" />
+    <Content Include="Module\FrameWork\SystemApp\GroupManager\Frame.aspx" />
+    <Content Include="Module\FrameWork\SystemApp\GroupManager\GroupList.aspx" />
+    <Content Include="Module\FrameWork\SystemApp\ModuleManager\List.aspx" />
+    <Content Include="Module\FrameWork\SystemApp\ModuleManager\ModuleList.aspx" />
+    <Content Include="Module\FrameWork\SystemApp\ModuleManager\moduleManager.aspx" />
+    <Content Include="Module\FrameWork\SystemApp\ModuleManager\Web.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="js\MoveTree.js" />
+    <Content Include="Module\FrameWork\SystemApp\GroupManager\Edit.aspx" />
+    <Content Include="Module\FrameWork\SystemApp\GroupManager\Move.aspx" />
+    <Content Include="Module\FrameWork\SystemApp\GroupManager\New.aspx" />
+    <Content Include="Module\FrameWork\SystemApp\GroupManager\Orderby.aspx" />
+    <Content Include="Module\FrameWork\SystemApp\GroupManager\Web.config" />
+    <Content Include="Module\FrameWork\SystemApp\RoleManager\RoleList.aspx" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Module\FrameWork\SystemApp\EventManager\default.aspx" />
+    <Content Include="Module\FrameWork\SystemApp\RoleManager\RoleManager.aspx" />
+    <Content Include="Module\FrameWork\SystemApp\RoleManager\RolePermissionManager.aspx" />
+    <Content Include="Module\FrameWork\SystemApp\RoleManager\Web.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="js\checkform.js" />
+    <Content Include="js\SelectTree.js" />
+    <Content Include="Module\FrameWork\SystemApp\FieldManager\default.aspx" />
+    <Content Include="Module\FrameWork\SystemApp\FieldManager\FieldValueManager.aspx" />
+    <Content Include="Module\FrameWork\SystemApp\UserManager\Default.aspx" />
+    <Content Include="Module\FrameWork\SystemApp\UserManager\SelectGroup.aspx" />
+    <Content Include="Module\FrameWork\SystemApp\UserManager\UserManager.aspx" />
+    <Content Include="Module\FrameWork\SystemApp\UserManager\Web.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="inc\FineMessBox\1.htm" />
+    <Content Include="inc\FineMessBox\css\subModal.css" />
+    <Content Include="inc\FineMessBox\Images\maskBG.png" />
+    <Content Include="inc\FineMessBox\js\common.js" />
+    <Content Include="inc\FineMessBox\js\subModal.js" />
+    <Content Include="inc\FineMessBox\loading.html" />
+    <Content Include="Module\FrameWork\SystemApp\EventManager\EventDisp.aspx" />
+    <Content Include="Module\FrameWork\SystemApp\FieldManager\FieldValueBox.aspx" />
+    <Content Include="Module\FrameWork\SystemApp\FieldManager\Web.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="about.aspx" />
+    <Content Include="images\about.gif" />
+    <Content Include="images\Index\menu1bg.gif" />
+    <Content Include="images\Index\menubg.jpg" />
+    <Content Include="images\Index\top-2-1.gif" />
+    <Content Include="images\Index\top-2-2.gif" />
+    <Content Include="images\Index\top-b-1.gif" />
+    <Content Include="images\Index\top-b-2-1-2.gif" />
+    <Content Include="images\Index\top-b-2-2.gif" />
+    <Content Include="images\Index\top-b-2.gif" />
+    <Content Include="images\Index\top-b-3-2.gif" />
+    <Content Include="images\Index\top-b-3.gif" />
+    <Content Include="images\Index\top-b4-1.gif" />
+    <Content Include="images\Index\top-b4-2.gif" />
+    <Content Include="images\Index\top-b4-b.gif" />
+    <Content Include="images\Index\top-b4-c.gif" />
+    <Content Include="images\Index\top-b4-yellow.gif" />
+    <Content Include="images\right.gif" />
+    <Content Include="images\TreeIcon\refurbish.gif" />
+    <Content Include="images\userset.gif" />
+    <Content Include="images\wrong.gif" />
+    <Content Include="js\date\date.js" />
+    <Content Include="Menu1.aspx" />
+    <Content Include="Menu1_Button.aspx" />
+    <Content Include="Menu1_Disp.aspx" />
+    <Content Include="Menu2.aspx" />
+    <Content Include="Module\FrameWork\SystemApp\EventManager\Web.config" />
+    <Content Include="Module\FrameWork\SystemApp\OnlineUserManager\default.aspx" />
+    <Content Include="UserSet.aspx" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Module\FrameWork\SystemApp\OnlineUserManager\Web.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="App_Themes\Standard\ListBox.skin" />
+    <Content Include="Css\Table\default\css.css" />
+    <Content Include="Css\Table\blue\css.css" />
+    <Content Include="Css\Table\blue\images\header_bg.gif" />
+    <Content Include="Css\Table\Green\css.css" />
+    <Content Include="Css\Table\red\css.css" />
+    <Content Include="Module\FrameWork\SystemMaintenance\SystemConfig\default.aspx" />
+    <Content Include="Module\FrameWork\SystemMaintenance\SystemErrorLog\default.aspx" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Css\Menu1.css" />
+    <Content Include="DownLoadFile.aspx" />
+    <Content Include="images\ICON\Area.png" />
+    <Content Include="images\ICON\Colume.png" />
+    <Content Include="images\ICON\doc.gif" />
+    <Content Include="images\ICON\generic.gif" />
+    <Content Include="images\ICON\html2.gif" />
+    <Content Include="images\ICON\Line.png" />
+    <Content Include="images\ICON\paperclip.gif" />
+    <Content Include="images\ICON\ppt.gif" />
+    <Content Include="images\ICON\print_icon.gif" />
+    <Content Include="images\ICON\sound.gif" />
+    <Content Include="images\ICON\txt.gif" />
+    <Content Include="images\ICON\xls.gif" />
+    <Content Include="images\ICON\zip.gif" />
+    <Content Include="inc\FineMessBox\Images\left-corners.png" />
+    <Content Include="inc\FineMessBox\Images\left-right.png" />
+    <Content Include="inc\FineMessBox\Images\right-corners.png" />
+    <Content Include="inc\FineMessBox\Images\tool-sprites.gif" />
+    <Content Include="inc\FineMessBox\Images\top-bottom.png" />
+    <Content Include="Module\FrameWork\SystemMaintenance\SystemConfig\Web.config" />
+    <Content Include="Module\FrameWork\SystemMaintenance\SystemErrorLog\Web.config" />
+    <Content Include="Module\FrameWork\SystemMaintenance\SystemState\default.aspx" />
+    <Content Include="Module\FrameWork\SystemMaintenance\SystemState\Web.config" />
+    <Content Include="readme.txt" />
+    <Content Include="right.aspx" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="DataBase\Access\" />
+    <Folder Include="DataBase\MsSql\" />
+    <Folder Include="DataBase\Oracle\" />
+    <Folder Include="Log\" />
+    <Folder Include="Public\UserPhoto\" />
+  </ItemGroup>
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>False</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>2855</DevelopmentServerPort>
+          <DevelopmentServerVPath>/manager/</DevelopmentServerVPath>
+          <IISUrl>http://framework.web</IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+</Project>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+	<siteMapNode url="" title="自动办公系统"  description="">
+		<siteMapNode url="" title="系统管理"  description="" >
+			<siteMapNode url="~/SysManage/LoginLog.aspx" title="登陆日志"  description="登陆日志" ></siteMapNode>
+			<siteMapNode url="~/SysManage/RoleManage/RoleManage.aspx" title="角色管理"  description="角色管理" ></siteMapNode>
+			<siteMapNode url="~/SysManage/RoleManage/ListUsersByRole.aspx" title="分配角色"  description="分配角色" ></siteMapNode>
+			<siteMapNode url="~/SysManage/OperateLog.aspx" title="操作日志"  description="操作日志" ></siteMapNode>
+			<siteMapNode url="~/SysManage/MenuAdjust.aspx" title="菜单排序"  description="菜单排序" ></siteMapNode>
+		</siteMapNode>
+		<siteMapNode url="" title="考勤管理"  description="" >
+			<siteMapNode url="~/ManualSign/ManualSign.aspx" title="员工签到，签退"  description="员工签到，签退" ></siteMapNode>
+			<siteMapNode url="~/ManualSign/ManualSignSearch.aspx" title="考勤历史查询"  description="考勤历史查询" ></siteMapNode>
+			<siteMapNode url="~/ManualSign/SignStatistic.aspx" title="考勤统计"  description="考勤统计" ></siteMapNode>
+		</siteMapNode>
+		<siteMapNode url="" title="文档管理"  description="" >
+			<siteMapNode url="~/File/FileManage.aspx" title="文档管理"  description="文档管理" ></siteMapNode>
+			<siteMapNode url="~/File/FileSearch.aspx" title="文件搜索"  description="文件搜索" ></siteMapNode>
+			<siteMapNode url="~/File/RecycleBin.aspx" title="回收站"  description="回收站" ></siteMapNode>
+		</siteMapNode>
+		<siteMapNode url="" title="人事管理"  description="" >
+			<siteMapNode url="~/PersonManage/UserManage.aspx" title="员工管理"  description="员工管理" ></siteMapNode>
+			<siteMapNode url="~/PersonManage/UserInfoManage.aspx" title="用户编辑"  description="用户编辑" ></siteMapNode>
+			<siteMapNode url="~/PersonManage/UserInfo.aspx" title="用户详细信息"  description="用户详细信息" ></siteMapNode>
+			<siteMapNode url="~/PersonManage/BranchManage.aspx" title="机构管理"  description="机构管理" ></siteMapNode>
+			<siteMapNode url="~/PersonManage/DepartManage.aspx" title="部门管理"  description="部门管理" ></siteMapNode>
+		</siteMapNode>
+		<siteMapNode url="" title="消息传递"  description="" >
+			<siteMapNode url="~/Message/MessageManage/MessageManage.aspx" title="消息管理"  description="消息管理" ></siteMapNode>
+			<siteMapNode url="~/Message/MessageManage/MessageAdd.aspx" title="编辑消息"  description="编辑消息" ></siteMapNode>
+			<siteMapNode url="~/Message/MailBox/MailBox.aspx" title="信箱"  description="信箱" ></siteMapNode>
+			<siteMapNode url="~/Message/MailBox/ReceiveMail.aspx" title="收件箱"  description="收件箱" ></siteMapNode>
+			<siteMapNode url="~/Message/MailBox/SendMail.aspx" title="已发送文件"  description="已发送文件" ></siteMapNode>
+			<siteMapNode url="~/Message/MailBox/DraftMail.aspx" title="草 稿 箱"  description="草 稿 箱" ></siteMapNode>
+			<siteMapNode url="~/Message/MailBox/DeletedFiles.aspx" title="已删除"  description="已删除" ></siteMapNode>
+		</siteMapNode>
+		<siteMapNode url="" title="日程管理"  description="" >
+			<siteMapNode url="~/ScheduleManage/PersonSchedule/PersonSchedule.aspx" title="我的日程"  description="我的日程" ></siteMapNode>
+			<siteMapNode url="~/ScheduleManage/DepartSchedule/DepartSchedule.aspx" title="部门日程"  description="部门日程" ></siteMapNode>
+			<siteMapNode url="~/ScheduleManage/PersonNote/PersonNote.aspx" title="我的便签"  description="我的便签" ></siteMapNode>
+			<siteMapNode url="~/ScheduleManage/PersonNote/AddMyNote.aspx" title="便签详情"  description="便签详情" ></siteMapNode>
+			<siteMapNode url="~/ScheduleManage/PersonSchedule/SaveMySchedule.aspx" title="我的日程详情"  description="我的日程详情" ></siteMapNode>
+      <siteMapNode url="~/ScheduleManage/PersonSchedule/ScheduleAll.aspx" title="当天所有的日程"  description="当天所有的日程" ></siteMapNode>
+		</siteMapNode>
+	</siteMapNode>
+</siteMap>

@@ -1,0 +1,36 @@
+.TOPClass {
+	FONT-SIZE: 10px; CURSOR: pointer; COLOR: #6699ff; HEIGHT: 20px; TEXT-ALIGN: right
+}
+.a {
+	TEXT-DECORATION: none
+}
+.TableNameTxt {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; OVERFLOW: auto; COLOR: #000000; WORD-BREAK: break-all; HEIGHT: 20px
+}
+.middlecss {
+	BORDER-RIGHT: #c7c5d9 1px solid; BACKGROUND-COLOR: #ffffff
+}
+.TitleColor {
+	BORDER-BOTTOM: #000000 1px solid; BACKGROUND-COLOR: #698cc3
+}
+.ButtonColor {
+	BACKGROUND-COLOR: #d6e0ef
+}
+.HeadTitle {
+	FONT: bold medium "Verdana", "Arial", "Helvetica", "sans-serif"; COLOR: #ffffff
+}
+TD {
+	FONT-SIZE: 12px
+}
+.table-00 {
+	BORDER-RIGHT: #698cc3 1px solid; BORDER-TOP: #698cc3 1px solid; BACKGROUND: #d6e0ef; OVERFLOW: auto; BORDER-LEFT: #698cc3 1px solid; WIDTH: 100%; WORD-BREAK: break-all; BORDER-BOTTOM: #698cc3 1px solid
+}
+.td-00 {
+	PADDING-LEFT: 5px; FONT: bold 9pt Tahoma, Verdana; OVERFLOW: auto; COLOR: #ffffff; WORD-BREAK: break-all; HEIGHT: 25px; BACKGROUND-COLOR: #698cc3
+}
+.td-01 {
+	PADDING-LEFT: 5px; FONT-SIZE: 9pt; OVERFLOW: auto; COLOR: #000000; WORD-BREAK: break-all; FONT-FAMILY: "Arial","宋体", "新宋体"; HEIGHT: 25px; BACKGROUND-COLOR: #eaeff2
+}
+.td-02 {
+	PADDING-LEFT: 5px; FONT-SIZE: 9pt; OVERFLOW: auto; COLOR: #000000; WORD-BREAK: break-all; FONT-FAMILY: "Arial","宋体", "新宋体"; HEIGHT: 25px; BACKGROUND-COLOR: #ffffff
+}

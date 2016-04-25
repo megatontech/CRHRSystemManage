@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{FF04353C-14E0-4D2E-BAFD-072238799D2D}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>FineOA.BLL</RootNamespace>
+    <AssemblyName>FineOA.BLL</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="t_BillId.cs" />
+    <Compile Include="t_BillNo.cs" />
+    <Compile Include="t_Config.cs" />
+    <Compile Include="t_Department.cs" />
+    <Compile Include="t_Log.cs" />
+    <Compile Include="t_Menu.cs" />
+    <Compile Include="t_Online.cs" />
+    <Compile Include="t_Power.cs" />
+    <Compile Include="t_Role.cs" />
+    <Compile Include="t_RolePower.cs" />
+    <Compile Include="t_RoleUser.cs" />
+    <Compile Include="t_SubMessage.cs" />
+    <Compile Include="t_User.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\FineOA.Common\FineOA.Common.csproj">
+      <Project>{B5F66444-4DA3-4486-963B-844A045A2461}</Project>
+      <Name>FineOA.Common</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\FineOA.DALFactory\FineOA.DALFactory.csproj">
+      <Project>{41C83C35-0380-46BC-94AD-9134404BFB43}</Project>
+      <Name>FineOA.DALFactory</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\FineOA.IDAL\FineOA.IDAL.csproj">
+      <Project>{04ADDB5F-3DC3-4138-B39A-5C39EE002FEA}</Project>
+      <Name>FineOA.IDAL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\FineOA.Model\FineOA.Model.csproj">
+      <Project>{CE1B84B9-F4B9-48D8-BC4F-7561BD455095}</Project>
+      <Name>FineOA.Model</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

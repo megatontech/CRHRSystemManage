@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="MyOfficeWeb">
+</Property><Property Name="解决方案文件" Value="A:\电厂人事\MyOffice\MyOfficeWeb.sln">
+</Property><Property Name="Date" Value="2015年2月10日">
+</Property><Property Name="Time" Value="13:40">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="MyOfficeWeb.sln" Description="文件已成功备份为 A:\电厂人事\MyOffice\Backup\MyOfficeWeb.sln">
+</Event><Event ErrorLevel="0" Project="MyOfficeDAL" Source="MyOfficeDAL\MyOfficeDAL.csproj" Description="项目文件已成功备份为 A:\电厂人事\MyOffice\Backup\MyOfficeDAL\MyOfficeDAL.csproj">
+</Event><Event ErrorLevel="0" Project="MyOfficeDAL" Source="MyOfficeDAL\MyOfficeDAL.csproj.user" Description="项目用户文件成功备份为 A:\电厂人事\MyOffice\Backup\MyOfficeDAL\MyOfficeDAL.csproj.user">
+</Event><Event ErrorLevel="0" Project="MyOfficeDAL" Source="MyOfficeDAL\AccessoryFileService.cs" Description="文件已成功备份为 A:\电厂人事\MyOffice\Backup\MyOfficeDAL\AccessoryFileService.cs">
+</Event><Event ErrorLevel="0" Project="MyOfficeDAL" Source="MyOfficeDAL\BranchInfoService.cs" Description="文件已成功备份为 A:\电厂人事\MyOffice\Backup\MyOfficeDAL\BranchInfoService.cs">
+</Event><Event ErrorLevel="0" Project="MyOfficeDAL" Source="MyOfficeDAL\DBHelper.cs" Description="文件已成功备份为 A:\电厂人事\MyOffice\Backup\MyOfficeDAL\DBHelper.cs">
+</Event><Event ErrorLevel="0" Project="MyOfficeDAL" Source="MyOfficeDAL\DepartInfoService.cs" Description="文件已成功备份为 A:\电厂人事\MyOffice\Backup\MyOfficeDAL\DepartInfoService.cs">
+</Event><Event ErrorLevel="0" Project="MyOfficeDAL" Source="MyOfficeDAL\FileInfoService.cs" Description="文件已成功备份为 A:\电厂人事\MyOffice\Backup\MyOfficeDAL\FileInfoService.cs">
+</Event><Event ErrorLevel="0" Project="MyOfficeDAL" Source="MyOfficeDAL\FileTypeInfoService.cs" Description="文件已成功备份为 A:\电厂人事\MyOffice\Backup\MyOfficeDAL\FileTypeInfoService.cs">
+</Event><Event ErrorLevel="0" Project="MyOfficeDAL" Source="MyOfficeDAL\LoginLogService.cs" Description="文件已成功备份为 A:\电厂人事\MyOffice\Backup\MyOfficeDAL\LoginLogService.cs">
+</Event><Event ErrorLevel="0" Project="MyOfficeDAL" Source="MyOfficeDAL\ManualSignService.cs" Description="文件已成功备份为 A:\电厂人事\MyOffice\Backup\MyOfficeDAL\ManualSignService.cs">
+</Event><Event ErrorLevel="0" Project="MyOfficeDAL" Source="MyOfficeDAL\MeetingInfoService.cs" Description="文件已成功备份为 A:\电厂人事\MyOffice\Backup\MyOfficeDAL\MeetingInfoService.cs">
+</Event><Event ErrorLevel="0" Project="MyOfficeDAL" Source="MyOfficeDAL\MessageService.cs" Description="文件已成功备份为 A:\电厂人事\MyOffice\Backup\MyOfficeDAL\MessageService.cs">
+</Event><Event ErrorLevel="0" Project="MyOfficeDAL" Source="MyOfficeDAL\MessageToUserService.cs" Description="文件已成功备份为 A:\电厂人事\MyOffice\Backup\MyOfficeDAL\MessageToUserService.cs">
+</Event><Event ErrorLevel="0" Project="MyOfficeDAL" Source="MyOfficeDAL\MessageTypeService.cs" Description="文件已成功备份为 A:\电厂人事\MyOffice\Backup\MyOfficeDAL\MessageTypeService.cs">
+</Event><Event ErrorLevel="0" Project="MyOfficeDAL" Source="MyOfficeDAL\MyNoteService.cs" Description="文件已成功备份为 A:\电厂人事\MyOffice\Backup\MyOfficeDAL\MyNoteService.cs">
+</Event><Event ErrorLevel="0" Project="MyOfficeDAL" Source="MyOfficeDAL\OperateLogService.cs" Description="文件已成功备份为 A:\电厂人事\MyOffice\Backup\MyOfficeDAL\OperateLogService.cs">
+</Event><Event ErrorLevel="0" Project="MyOfficeDAL" Source="MyOfficeDAL\PreContractService.cs" Description="文件已成功备份为 A:\电厂人事\MyOffice\Backup\MyOfficeDAL\PreContractService.cs">
+</Event><Event ErrorLevel="0" Project="MyOfficeDAL" Source="MyOfficeDAL\Properties\AssemblyInfo.cs" Description="文件已成功备份为 A:\电厂人事\MyOffice\Backup\MyOfficeDAL\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="MyOfficeDAL" Source="MyOfficeDAL\RoleInfoService.cs" Description="文件已成功备份为 A:\电厂人事\MyOffice\Backup\MyOfficeDAL\RoleInfoService.cs">
+</Event><Event ErrorLevel="0" Project="MyOfficeDAL" Source="MyOfficeDAL\RoleRightService.cs" Description="文件已成功备份为 A:\电厂人事\MyOffice\Backup\MyOfficeDAL\RoleRightService.cs">
+</Event><Event ErrorLevel="0" Project="MyOfficeDAL" Source="MyOfficeDAL\ScheduleService.cs" Description="文件已成功备份为 A:\电厂人事\MyOffice\Backup\MyOfficeDAL\ScheduleService.cs">
+</Event><Event ErrorLevel="0" Project="MyOfficeDAL" Source="MyOfficeDAL\SysFunService.cs" Description="文件已成功备份为 A:\电厂人事\MyOffice\Backup\MyOfficeDAL\SysFunService.cs">
+</Event><Event ErrorLevel="0" Project="MyOfficeDAL" Source="MyOfficeDAL\UserInfoService.cs" Description="文件已成功备份为 A:\电厂人事\MyOffice\Backup\MyOfficeDAL\UserInfoService.cs">
+</Event><Event ErrorLevel="0" Project="MyOfficeDAL" Source="MyOfficeDAL\UserStateService.cs" Description="文件已成功备份为 A:\电厂人事\MyOffice\Backup\MyOfficeDAL\UserStateService.cs">
+</Event><Event ErrorLevel="0" Project="MyOfficeDAL" Source="MyOfficeDAL\obj\Debug\ResolveAssemblyReference.cache" Description="文件已成功备份为 A:\电厂人事\MyOffice\Backup\MyOfficeDAL\obj\Debug\ResolveAssemblyReference.cache">
+</Event><Event ErrorLevel="0" Project="MyOfficeDAL" Source="MyOfficeDAL\bin\Debug\MyOfficeDAL.dll" Description="文件已成功备份为 A:\电厂人事\MyOffice\Backup\MyOfficeDAL\bin\Debug\MyOfficeDAL.dll">
+</Event><Event ErrorLevel="0" Project="MyOfficeDAL" Source="MyOfficeDAL\bin\Debug\MyOfficeDAL.pdb" Description="文件已成功备份为 A:\电厂人事\MyOffice\Backup\MyOfficeDAL\bin\Debug\MyOfficeDAL.pdb">
+</Event><Event ErrorLevel="0" Project="MyOfficeDAL" Source="MyOfficeDAL\bin\Debug\MyOfficeModels.dll" Description="文件已成功备份为 A:\电厂人事\MyOffice\Backup\MyOfficeDAL\bin\Debug\MyOfficeModels.dll">
+</Event><Event ErrorLevel="0" Project="MyOfficeDAL" Source="MyOfficeDAL\bin\Debug\MyOfficeModels.pdb" Description="文件已成功备份为 A:\电厂人事\MyOffice\Backup\MyOfficeDAL\bin\Debug\MyOfficeModels.pdb">
+</Event><Event ErrorLevel="0" Project="MyOfficeDAL" Source="MyOfficeDAL\obj\Debug\MyOfficeDAL.dll" Description="文件已成功备份为 A:\电厂人事\MyOffice\Backup\MyOfficeDAL\obj\Debug\MyOfficeDAL.dll">
+</Event><Event ErrorLevel="0" Project="MyOfficeDAL" Source="MyOfficeDAL\obj\Debug\MyOfficeDAL.pdb" Description="文件已成功备份为 A:\电厂人事\MyOffice\Backup\MyOfficeDAL\obj\Debug\MyOfficeDAL.pdb">
+</Event><Event ErrorLevel="0" Project="MyOfficeDAL" Source="MyOfficeDAL\obj\MyOfficeDAL.csproj.FileListAbsolute.txt" Description="文件已成功备份为 A:\电厂人事\MyOffice\Backup\MyOfficeDAL\obj\MyOfficeDAL.csproj.FileListAbsolute.txt">
+</Event><Event ErrorLevel="1" Project="MyOfficeDAL" Source="MyOfficeDAL\MyOfficeDAL.csproj" Description="您的项目以 .NET Framework 2.0 或 3.0 为目标。如果您的项目使用的程序集需要更新的 .NET Framework，则项目生成将失败。通过单击项目菜单上的“属性”，然后在“.NET Framework”下拉框中选择一个新版本，可以更改 .NET Framework 的版本。(在 Visual Basic 中，可在单击“高级编辑器选项...”按钮时显示的“编译”选项卡上找到此下拉框。)">
+</Event><Event ErrorLevel="0" Project="MyOfficeDAL" Source="MyOfficeDAL\MyOfficeDAL.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="MyOfficeDAL" Source="MyOfficeDAL\MyOfficeDAL.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="MyOfficeBLL" Source="MyOfficeBLL\MyOfficeBLL.csproj" Description="项目文件已成功备份为 A:\电厂人事\MyOffice\Backup\MyOfficeBLL\MyOfficeBLL.csproj">
+</Event><Event ErrorLevel="0" Project="MyOfficeBLL" Source="MyOfficeBLL\MyOfficeBLL.csproj.user" Description="项目用户文件成功备份为 A:\电厂人事\MyOffice\Backup\MyOfficeBLL\MyOfficeBLL.csproj.user">
+</Event><Event ErrorLevel="0" Project="MyOfficeBLL" Source="MyOfficeBLL\AccessoryFileManager.cs" Description="文件已成功备份为 A:\电厂人事\MyOffice\Backup\MyOfficeBLL\AccessoryFileManager.cs">
+</Event><Event ErrorLevel="0" Project="MyOfficeBLL" Source="MyOfficeBLL\BranchInfoManger.cs" Description="文件已成功备份为 A:\电厂人事\MyOffice\Backup\MyOfficeBLL\BranchInfoManger.cs">
+</Event><Event ErrorLevel="0" Project="MyOfficeBLL" Source="MyOfficeBLL\CNDate.cs" Description="文件已成功备份为 A:\电厂人事\MyOffice\Backup\MyOfficeBLL\CNDate.cs">
+</Event><Event ErrorLevel="0" Project="MyOfficeBLL" Source="MyOfficeBLL\DepartInfoManager.cs" Description="文件已成功备份为 A:\电厂人事\MyOffice\Backup\MyOfficeBLL\DepartInfoManager.cs">
+</Event><Event ErrorLevel="0" Project="MyOfficeBLL" Source="MyOfficeBLL\FileInfoManager.cs" Description="文件已成功备份为 A:\电厂人事\MyOffice\Backup\MyOfficeBLL\FileInfoManager.cs">
+</Event><Event ErrorLevel="0" Project="MyOfficeBLL" Source="MyOfficeBLL\FileTypeInfoManager.cs" Description="文件已成功备份为 A:\电厂人事\MyOffice\Backup\MyOfficeBLL\FileTypeInfoManager.cs">
+</Event><Event ErrorLevel="0" Project="MyOfficeBLL" Source="MyOfficeBLL\LoginLogManager.cs" Description="文件已成功备份为 A:\电厂人事\MyOffice\Backup\MyOfficeBLL\LoginLogManager.cs">
+</Event><Event ErrorLevel="0" Project="MyOfficeBLL" Source="MyOfficeBLL\ManageAllFile.cs" Description="文件已成功备份为 A:\电厂人事\MyOffice\Backup\MyOfficeBLL\ManageAllFile.cs">
+</Event><Event ErrorLevel="0" Project="MyOfficeBLL" Source="MyOfficeBLL\ManualSignManager.cs" Description="文件已成功备份为 A:\电厂人事\MyOffice\Backup\MyOfficeBLL\ManualSignManager.cs">
+</Event><Event ErrorLevel="0" Project="MyOfficeBLL" Source="MyOfficeBLL\MeetingInfoManager.cs" Description="文件已成功备份为 A:\电厂人事\MyOffice\Backup\MyOfficeBLL\MeetingInfoManager.cs">
+</Event><Event ErrorLevel="0" Project="MyOfficeBLL" Source="MyOfficeBLL\MessageManager.cs" Description="文件已成功备份为 A:\电厂人事\MyOffice\Backup\MyOfficeBLL\MessageManager.cs">
+</Event><Event ErrorLevel="0" Project="MyOfficeBLL" Source="MyOfficeBLL\MessageToUserManager.cs" Description="文件已成功备份为 A:\电厂人事\MyOffice\Backup\MyOfficeBLL\MessageToUserManager.cs">
+</Event><Event ErrorLevel="0" Project="MyOfficeBLL" Source="MyOfficeBLL\MessageTypeManager.cs" Description="文件已成功备份为 A:\电厂人事\MyOffice\Backup\MyOfficeBLL\MessageTypeManager.cs">
+</Event><Event ErrorLevel="0" Project="MyOfficeBLL" Source="MyOfficeBLL\MyNoteManager.cs" Description="文件已成功备份为 A:\电厂人事\MyOffice\Backup\MyOfficeBLL\MyNoteManager.cs">
+</Event><Event ErrorLevel="0" Project="MyOfficeBLL" Source="MyOfficeBLL\OperateLogManager.cs" Description="文件已成功备份为 A:\电厂人事\MyOffice\Backup\MyOfficeBLL\OperateLogManager.cs">
+</Event><Event ErrorLevel="0" Project="MyOfficeBLL" Source="MyOfficeBLL\PreContractManager.cs" Description="文件已成功备份为 A:\电厂人事\MyOffice\Backup\MyOfficeBLL\PreContractManager.cs">
+</Event><Event ErrorLevel="0" Project="MyOfficeBLL" Source="MyOfficeBLL\Properties\AssemblyInfo.cs" Description="文件已成功备份为 A:\电厂人事\MyOffice\Backup\MyOfficeBLL\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="MyOfficeBLL" Source="MyOfficeBLL\RoleInfoManager.cs" Description="文件已成功备份为 A:\电厂人事\MyOffice\Backup\MyOfficeBLL\RoleInfoManager.cs">
+</Event><Event ErrorLevel="0" Project="MyOfficeBLL" Source="MyOfficeBLL\RoleRightManager.cs" Description="文件已成功备份为 A:\电厂人事\MyOffice\Backup\MyOfficeBLL\RoleRightManager.cs">
+</Event><Event ErrorLevel="0" Project="MyOfficeBLL" Source="MyOfficeBLL\ScheduleManager.cs" Description="文件已成功备份为 A:\电厂人事\MyOffice\Backup\MyOfficeBLL\ScheduleManager.cs">
+</Event><Event ErrorLevel="0" Project="MyOfficeBLL" Source="MyOfficeBLL\SysFunManager.cs" Description="文件已成功备份为 A:\电厂人事\MyOffice\Backup\MyOfficeBLL\SysFunManager.cs">
+</Event><Event ErrorLevel="0" Project="MyOfficeBLL" Source="MyOfficeBLL\UserInfoManager.cs" Description="文件已成功备份为 A:\电厂人事\MyOffice\Backup\MyOfficeBLL\UserInfoManager.cs">
+</Event><Event ErrorLevel="0" Project="MyOfficeBLL" Source="MyOfficeBLL\UserStateManager.cs" Description="文件已成功备份为 A:\电厂人事\MyOffice\Backup\MyOfficeBLL\UserStateManager.cs">
+</Event><Event ErrorLevel="0" Project="MyOfficeBLL" Source="MyOfficeBLL\obj\Debug\ResolveAssemblyReference.cache" Description="文件已成功备份为 A:\电厂人事\MyOffice\Backup\MyOfficeBLL\obj\Debug\ResolveAssemblyReference.cache">
+</Event><Event ErrorLevel="0" Project="MyOfficeBLL" Source="MyOfficeBLL\bin\Debug\MyOfficeBLL.dll" Description="文件已成功备份为 A:\电厂人事\MyOffice\Backup\MyOfficeBLL\bin\Debug\MyOfficeBLL.dll">
+</Event><Event ErrorLevel="0" Project="MyOfficeBLL" Source="MyOfficeBLL\bin\Debug\MyOfficeBLL.pdb" Description="文件已成功备份为 A:\电厂人事\MyOffice\Backup\MyOfficeBLL\bin\Debug\MyOfficeBLL.pdb">
+</Event><Event ErrorLevel="0" Project="MyOfficeBLL" Source="MyOfficeBLL\obj\Debug\MyOfficeBLL.dll" Description="文件已成功备份为 A:\电厂人事\MyOffice\Backup\MyOfficeBLL\obj\Debug\MyOfficeBLL.dll">
+</Event><Event ErrorLevel="0" Project="MyOfficeBLL" Source="MyOfficeBLL\obj\Debug\MyOfficeBLL.pdb" Description="文件已成功备份为 A:\电厂人事\MyOffice\Backup\MyOfficeBLL\obj\Debug\MyOfficeBLL.pdb">
+</Event><Event ErrorLevel="0" Project="MyOfficeBLL" Source="MyOfficeBLL\obj\MyOfficeBLL.csproj.FileListAbsolute.txt" Description="文件已成功备份为 A:\电厂人事\MyOffice\Backup\MyOfficeBLL\obj\MyOfficeBLL.csproj.FileListAbsolute.txt">
+</Event><Event ErrorLevel="1" Project="MyOfficeBLL" Source="MyOfficeBLL\MyOfficeBLL.csproj" Description="您的项目以 .NET Framework 2.0 或 3.0 为目标。如果您的项目使用的程序集需要更新的 .NET Framework，则项目生成将失败。通过单击项目菜单上的“属性”，然后在“.NET Framework”下拉框中选择一个新版本，可以更改 .NET Framework 的版本。(在 Visual Basic 中，可在单击“高级编辑器选项...”按钮时显示的“编译”选项卡上找到此下拉框。)">
+</Event><Event ErrorLevel="0" Project="MyOfficeBLL" Source="MyOfficeBLL\MyOfficeBLL.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="MyOfficeBLL" Source="MyOfficeBLL\MyOfficeBLL.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="MyOfficeModels" Source="MyOfficeModels\MyOfficeModels.csproj" Description="项目文件已成功备份为 A:\电厂人事\MyOffice\Backup\MyOfficeModels\MyOfficeModels.csproj">
+</Event><Event ErrorLevel="0" Project="MyOfficeModels" Source="MyOfficeModels\MyOfficeModels.csproj.user" Description="项目用户文件成功备份为 A:\电厂人事\MyOffice\Backup\MyOfficeModels\MyOfficeModels.csproj.user">
+</Event><Event ErrorLevel="0" Project="MyOfficeModels" Source="MyOfficeModels\AccessoryFileInfo.cs" Description="文件已成功备份为 A:\电厂人事\MyOffice\Backup\MyOfficeModels\AccessoryFileInfo.cs">
+</Event><Event ErrorLevel="0" Project="MyOfficeModels" Source="MyOfficeModels\BranchInfo.cs" Description="文件已成功备份为 A:\电厂人事\MyOffice\Backup\MyOfficeModels\BranchInfo.cs">
+</Event><Event ErrorLevel="0" Project="MyOfficeModels" Source="MyOfficeModels\DepartInfo.cs" Description="文件已成功备份为 A:\电厂人事\MyOffice\Backup\MyOfficeModels\DepartInfo.cs">
+</Event><Event ErrorLevel="0" Project="MyOfficeModels" Source="MyOfficeModels\FileInfo.cs" Description="文件已成功备份为 A:\电厂人事\MyOffice\Backup\MyOfficeModels\FileInfo.cs">
+</Event><Event ErrorLevel="0" Project="MyOfficeModels" Source="MyOfficeModels\FileTypeInfo.cs" Description="文件已成功备份为 A:\电厂人事\MyOffice\Backup\MyOfficeModels\FileTypeInfo.cs">
+</Event><Event ErrorLevel="0" Project="MyOfficeModels" Source="MyOfficeModels\LoginLog.cs" Description="文件已成功备份为 A:\电厂人事\MyOffice\Backup\MyOfficeModels\LoginLog.cs">
+</Event><Event ErrorLevel="0" Project="MyOfficeModels" Source="MyOfficeModels\ManualSign.cs" Description="文件已成功备份为 A:\电厂人事\MyOffice\Backup\MyOfficeModels\ManualSign.cs">
+</Event><Event ErrorLevel="0" Project="MyOfficeModels" Source="MyOfficeModels\MeetingInfo.cs" Description="文件已成功备份为 A:\电厂人事\MyOffice\Backup\MyOfficeModels\MeetingInfo.cs">
+</Event><Event ErrorLevel="0" Project="MyOfficeModels" Source="MyOfficeModels\Message.cs" Description="文件已成功备份为 A:\电厂人事\MyOffice\Backup\MyOfficeModels\Message.cs">
+</Event><Event ErrorLevel="0" Project="MyOfficeModels" Source="MyOfficeModels\MessageToUser.cs" Description="文件已成功备份为 A:\电厂人事\MyOffice\Backup\MyOfficeModels\MessageToUser.cs">
+</Event><Event ErrorLevel="0" Project="MyOfficeModels" Source="MyOfficeModels\MessageType.cs" Description="文件已成功备份为 A:\电厂人事\MyOffice\Backup\MyOfficeModels\MessageType.cs">
+</Event><Event ErrorLevel="0" Project="MyOfficeModels" Source="MyOfficeModels\MyNote.cs" Description="文件已成功备份为 A:\电厂人事\MyOffice\Backup\MyOfficeModels\MyNote.cs">
+</Event><Event ErrorLevel="0" Project="MyOfficeModels" Source="MyOfficeModels\OperateLog.cs" Description="文件已成功备份为 A:\电厂人事\MyOffice\Backup\MyOfficeModels\OperateLog.cs">
+</Event><Event ErrorLevel="0" Project="MyOfficeModels" Source="MyOfficeModels\PreContract.cs" Description="文件已成功备份为 A:\电厂人事\MyOffice\Backup\MyOfficeModels\PreContract.cs">
+</Event><Event ErrorLevel="0" Project="MyOfficeModels" Source="MyOfficeModels\Properties\AssemblyInfo.cs" Description="文件已成功备份为 A:\电厂人事\MyOffice\Backup\MyOfficeModels\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="MyOfficeModels" Source="MyOfficeModels\RoleInfo.cs" Description="文件已成功备份为 A:\电厂人事\MyOffice\Backup\MyOfficeModels\RoleInfo.cs">
+</Event><Event ErrorLevel="0" Project="MyOfficeModels" Source="MyOfficeModels\RoleRight.cs" Description="文件已成功备份为 A:\电厂人事\MyOffice\Backup\MyOfficeModels\RoleRight.cs">
+</Event><Event ErrorLevel="0" Project="MyOfficeModels" Source="MyOfficeModels\Schedule.cs" Description="文件已成功备份为 A:\电厂人事\MyOffice\Backup\MyOfficeModels\Schedule.cs">
+</Event><Event ErrorLevel="0" Project="MyOfficeModels" Source="MyOfficeModels\SysFun.cs" Description="文件已成功备份为 A:\电厂人事\MyOffice\Backup\MyOfficeModels\SysFun.cs">
+</Event><Event ErrorLevel="0" Project="MyOfficeModels" Source="MyOfficeModels\UserInfo.cs" Description="文件已成功备份为 A:\电厂人事\MyOffice\Backup\MyOfficeModels\UserInfo.cs">
+</Event><Event ErrorLevel="0" Project="MyOfficeModels" Source="MyOfficeModels\UserState.cs" Description="文件已成功备份为 A:\电厂人事\MyOffice\Backup\MyOfficeModels\UserState.cs">
+</Event><Event ErrorLevel="0" Project="MyOfficeModels" Source="MyOfficeModels\WorkTime.cs" Description="文件已成功备份为 A:\电厂人事\MyOffice\Backup\MyOfficeModels\WorkTime.cs">
+</Event><Event ErrorLevel="1" Project="MyOfficeModels" Source="MyOfficeModels\MyOfficeModels.csproj" Description="您的项目以 .NET Framework 2.0 或 3.0 为目标。如果您的项目使用的程序集需要更新的 .NET Framework，则项目生成将失败。通过单击项目菜单上的“属性”，然后在“.NET Framework”下拉框中选择一个新版本，可以更改 .NET Framework 的版本。(在 Visual Basic 中，可在单击“高级编辑器选项...”按钮时显示的“编译”选项卡上找到此下拉框。)">
+</Event><Event ErrorLevel="0" Project="MyOfficeModels" Source="MyOfficeModels\MyOfficeModels.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="MyOfficeModels" Source="MyOfficeModels\MyOfficeModels.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="MyOfficeWeb.sln" Description="成功转换解决方案">
+</Event><Event ErrorLevel="3" Project="" Source="MyOfficeWeb.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="MyOfficeDAL" Source="MyOfficeDAL\MyOfficeDAL.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event><Event ErrorLevel="0" Project="MyOfficeBLL" Source="MyOfficeBLL\MyOfficeBLL.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event><Event ErrorLevel="0" Project="MyOfficeModels" Source="MyOfficeModels\MyOfficeModels.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event></UpgradeLog>

@@ -1,0 +1,11 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\FrameWork.web.dll
+obj\Debug\FrameWork.web.pdb
+bin\FrameWork.web.dll
+bin\FrameWork.web.pdb
+bin\FrameWork.dll
+bin\FrameWork.pdb
+bin\FrameWork.xml
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\FrameWork.web.dll
+obj\Release\FrameWork.web.pdb

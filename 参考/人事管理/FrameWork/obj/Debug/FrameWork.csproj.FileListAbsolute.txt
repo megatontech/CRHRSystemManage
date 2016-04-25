@@ -1,0 +1,14 @@
+C:\Users\Administrator\Downloads\18493179SystemManageSystem\权限管理开源\FrameWorkSrc20080215.zip\FrameWorkSrc20080215\20080215\FrameWork\bin\Debug\FrameWork.XML
+C:\Users\Administrator\Downloads\18493179SystemManageSystem\权限管理开源\FrameWorkSrc20080215.zip\FrameWorkSrc20080215\20080215\FrameWork\bin\Debug\FrameWork.dll
+C:\Users\Administrator\Downloads\18493179SystemManageSystem\权限管理开源\FrameWorkSrc20080215.zip\FrameWorkSrc20080215\20080215\FrameWork\bin\Debug\FrameWork.pdb
+C:\Users\Administrator\Downloads\18493179SystemManageSystem\权限管理开源\FrameWorkSrc20080215.zip\FrameWorkSrc20080215\20080215\FrameWork\obj\Debug\FrameWork.WebControls.AspNetPager.resources
+C:\Users\Administrator\Downloads\18493179SystemManageSystem\权限管理开源\FrameWorkSrc20080215.zip\FrameWorkSrc20080215\20080215\FrameWork\obj\Debug\FrameWork.csproj.GenerateResource.Cache
+C:\Users\Administrator\Downloads\18493179SystemManageSystem\权限管理开源\FrameWorkSrc20080215.zip\FrameWorkSrc20080215\20080215\FrameWork\obj\Debug\FrameWork.dll
+C:\Users\Administrator\Downloads\18493179SystemManageSystem\权限管理开源\FrameWorkSrc20080215.zip\FrameWorkSrc20080215\20080215\FrameWork\obj\Debug\FrameWork.pdb
+A:\电厂人事\源码\权限管理\FrameWork\bin\Debug\FrameWork.XML
+A:\电厂人事\源码\权限管理\FrameWork\bin\Debug\FrameWork.dll
+A:\电厂人事\源码\权限管理\FrameWork\bin\Debug\FrameWork.pdb
+A:\电厂人事\源码\权限管理\FrameWork\obj\Debug\FrameWork.WebControls.AspNetPager.resources
+A:\电厂人事\源码\权限管理\FrameWork\obj\Debug\FrameWork.csproj.GenerateResource.Cache
+A:\电厂人事\源码\权限管理\FrameWork\obj\Debug\FrameWork.dll
+A:\电厂人事\源码\权限管理\FrameWork\obj\Debug\FrameWork.pdb

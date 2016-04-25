@@ -1,0 +1,6 @@
+A:\电厂人事\源码\权限管理\CRHR.Web\obj\Debug\CRHR.Web.csprojResolveAssemblyReference.cache
+A:\电厂人事\源码\权限管理\CRHR.Web\obj\Debug\FineOA.Web.pdb
+A:\电厂人事\源码\人事管理\CRHR.Web\obj\Debug\CRHR.Web.csprojResolveAssemblyReference.cache
+A:\电厂人事\源码\人事管理\CRHR.Web\obj\Debug\FineOA.Web.pdb
+A:\电厂人事系统\源码\人事管理\CRHR.Web\obj\Debug\CRHR.Web.csprojResolveAssemblyReference.cache
+A:\电厂人事系统\源码\人事管理\CRHR.Web\obj\Debug\FineOA.Web.pdb

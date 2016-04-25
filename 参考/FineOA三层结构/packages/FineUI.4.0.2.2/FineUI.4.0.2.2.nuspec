@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>FineUI</id>
+    <version>4.0.2.2</version>
+    <title>FineUI</title>
+    <authors>sanshi</authors>
+    <owners>sanshi</owners>
+    <licenseUrl>http://www.apache.org/licenses/LICENSE-2.0.html</licenseUrl>
+    <projectUrl>http://fineui.codeplex.com/</projectUrl>
+    <iconUrl>http://fineui.com/demo/images/logo/favicon.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>About FineUI
+ExtJS based professional ASP.NET Controls.
+
+FineUI Mission
+Create No JavaScript, No CSS, No UpdatePanel, No ViewState and No WebServices web application.
+
+Support Browsers
+IE 8.0+、Chrome、Firefox、Opera、Safari
+
+License
+Apache License 2.0 (Apache)
+Note: ExtJS is released under GPL v3 license (http://www.sencha.com/license).
+
+Demo 
+http://fineui.com/demo/en/</description>
+    <summary>ExtJS based ASP.NET Controls</summary>
+    <language>es-US</language>
+    <tags>extjs asp.net javascript controls framework</tags>
+    <dependencies>
+      <dependency id="Newtonsoft.Json" version="4.5.5" />
+    </dependencies>
+  </metadata>
+</package>

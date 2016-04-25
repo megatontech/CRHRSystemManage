@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="企业人事管理系统">
+</Property><Property Name="解决方案文件" Value="A:\电厂人事\企业人事管理系统_CODE\企业人事管理系统\企业人事管理系统.sln">
+</Property><Property Name="用户选项文件" Value="A:\电厂人事\企业人事管理系统_CODE\企业人事管理系统\企业人事管理系统.suo">
+</Property><Property Name="Date" Value="2015年2月10日">
+</Property><Property Name="Time" Value="15:06">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="企业人事管理系统.sln" Description="文件已成功备份为 A:\电厂人事\企业人事管理系统_CODE\企业人事管理系统\Backup\企业人事管理系统.sln">
+</Event><Event ErrorLevel="0" Project="" Source="企业人事管理系统.suo" Description="文件已成功备份为 A:\电厂人事\企业人事管理系统_CODE\企业人事管理系统\Backup\企业人事管理系统.suo">
+</Event><Event ErrorLevel="0" Project="企业人事管理系统" Source="企业人事管理系统\企业人事管理系统.csproj" Description="项目文件已成功备份为 A:\电厂人事\企业人事管理系统_CODE\企业人事管理系统\Backup\企业人事管理系统\企业人事管理系统.csproj">
+</Event><Event ErrorLevel="0" Project="企业人事管理系统" Source="企业人事管理系统\MDI主窗口.cs" Description="文件已成功备份为 A:\电厂人事\企业人事管理系统_CODE\企业人事管理系统\Backup\企业人事管理系统\MDI主窗口.cs">
+</Event><Event ErrorLevel="0" Project="企业人事管理系统" Source="企业人事管理系统\MDI主窗口.Designer.cs" Description="文件已成功备份为 A:\电厂人事\企业人事管理系统_CODE\企业人事管理系统\Backup\企业人事管理系统\MDI主窗口.Designer.cs">
+</Event><Event ErrorLevel="0" Project="企业人事管理系统" Source="企业人事管理系统\Public_Fun.cs" Description="文件已成功备份为 A:\电厂人事\企业人事管理系统_CODE\企业人事管理系统\Backup\企业人事管理系统\Public_Fun.cs">
+</Event><Event ErrorLevel="0" Project="企业人事管理系统" Source="企业人事管理系统\Secret.cs" Description="文件已成功备份为 A:\电厂人事\企业人事管理系统_CODE\企业人事管理系统\Backup\企业人事管理系统\Secret.cs">
+</Event><Event ErrorLevel="0" Project="企业人事管理系统" Source="企业人事管理系统\SQL_Link.cs" Description="文件已成功备份为 A:\电厂人事\企业人事管理系统_CODE\企业人事管理系统\Backup\企业人事管理系统\SQL_Link.cs">
+</Event><Event ErrorLevel="0" Project="企业人事管理系统" Source="企业人事管理系统\WaitForm.cs" Description="文件已成功备份为 A:\电厂人事\企业人事管理系统_CODE\企业人事管理系统\Backup\企业人事管理系统\WaitForm.cs">
+</Event><Event ErrorLevel="0" Project="企业人事管理系统" Source="企业人事管理系统\WaitForm.Designer.cs" Description="文件已成功备份为 A:\电厂人事\企业人事管理系统_CODE\企业人事管理系统\Backup\企业人事管理系统\WaitForm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="企业人事管理系统" Source="企业人事管理系统\人事资料.cs" Description="文件已成功备份为 A:\电厂人事\企业人事管理系统_CODE\企业人事管理系统\Backup\企业人事管理系统\人事资料.cs">
+</Event><Event ErrorLevel="0" Project="企业人事管理系统" Source="企业人事管理系统\人事资料.Designer.cs" Description="文件已成功备份为 A:\电厂人事\企业人事管理系统_CODE\企业人事管理系统\Backup\企业人事管理系统\人事资料.Designer.cs">
+</Event><Event ErrorLevel="0" Project="企业人事管理系统" Source="企业人事管理系统\公司资料设置.cs" Description="文件已成功备份为 A:\电厂人事\企业人事管理系统_CODE\企业人事管理系统\Backup\企业人事管理系统\公司资料设置.cs">
+</Event><Event ErrorLevel="0" Project="企业人事管理系统" Source="企业人事管理系统\公司资料设置.Designer.cs" Description="文件已成功备份为 A:\电厂人事\企业人事管理系统_CODE\企业人事管理系统\Backup\企业人事管理系统\公司资料设置.Designer.cs">
+</Event><Event ErrorLevel="0" Project="企业人事管理系统" Source="企业人事管理系统\字段编辑.cs" Description="文件已成功备份为 A:\电厂人事\企业人事管理系统_CODE\企业人事管理系统\Backup\企业人事管理系统\字段编辑.cs">
+</Event><Event ErrorLevel="0" Project="企业人事管理系统" Source="企业人事管理系统\字段编辑.Designer.cs" Description="文件已成功备份为 A:\电厂人事\企业人事管理系统_CODE\企业人事管理系统\Backup\企业人事管理系统\字段编辑.Designer.cs">
+</Event><Event ErrorLevel="0" Project="企业人事管理系统" Source="企业人事管理系统\定位窗体.cs" Description="文件已成功备份为 A:\电厂人事\企业人事管理系统_CODE\企业人事管理系统\Backup\企业人事管理系统\定位窗体.cs">
+</Event><Event ErrorLevel="0" Project="企业人事管理系统" Source="企业人事管理系统\定位窗体.Designer.cs" Description="文件已成功备份为 A:\电厂人事\企业人事管理系统_CODE\企业人事管理系统\Backup\企业人事管理系统\定位窗体.Designer.cs">
+</Event><Event ErrorLevel="0" Project="企业人事管理系统" Source="企业人事管理系统\更改密码.cs" Description="文件已成功备份为 A:\电厂人事\企业人事管理系统_CODE\企业人事管理系统\Backup\企业人事管理系统\更改密码.cs">
+</Event><Event ErrorLevel="0" Project="企业人事管理系统" Source="企业人事管理系统\更改密码.Designer.cs" Description="文件已成功备份为 A:\电厂人事\企业人事管理系统_CODE\企业人事管理系统\Backup\企业人事管理系统\更改密码.Designer.cs">
+</Event><Event ErrorLevel="0" Project="企业人事管理系统" Source="企业人事管理系统\查询窗体.cs" Description="文件已成功备份为 A:\电厂人事\企业人事管理系统_CODE\企业人事管理系统\Backup\企业人事管理系统\查询窗体.cs">
+</Event><Event ErrorLevel="0" Project="企业人事管理系统" Source="企业人事管理系统\查询窗体.Designer.cs" Description="文件已成功备份为 A:\电厂人事\企业人事管理系统_CODE\企业人事管理系统\Backup\企业人事管理系统\查询窗体.Designer.cs">
+</Event><Event ErrorLevel="0" Project="企业人事管理系统" Source="企业人事管理系统\系统登陆.cs" Description="文件已成功备份为 A:\电厂人事\企业人事管理系统_CODE\企业人事管理系统\Backup\企业人事管理系统\系统登陆.cs">
+</Event><Event ErrorLevel="0" Project="企业人事管理系统" Source="企业人事管理系统\系统登陆.Designer.cs" Description="文件已成功备份为 A:\电厂人事\企业人事管理系统_CODE\企业人事管理系统\Backup\企业人事管理系统\系统登陆.Designer.cs">
+</Event><Event ErrorLevel="0" Project="企业人事管理系统" Source="企业人事管理系统\Program.cs" Description="文件已成功备份为 A:\电厂人事\企业人事管理系统_CODE\企业人事管理系统\Backup\企业人事管理系统\Program.cs">
+</Event><Event ErrorLevel="0" Project="企业人事管理系统" Source="企业人事管理系统\Properties\AssemblyInfo.cs" Description="文件已成功备份为 A:\电厂人事\企业人事管理系统_CODE\企业人事管理系统\Backup\企业人事管理系统\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="企业人事管理系统" Source="企业人事管理系统\Properties\Resources.Designer.cs" Description="文件已成功备份为 A:\电厂人事\企业人事管理系统_CODE\企业人事管理系统\Backup\企业人事管理系统\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="企业人事管理系统" Source="企业人事管理系统\Properties\Settings.Designer.cs" Description="文件已成功备份为 A:\电厂人事\企业人事管理系统_CODE\企业人事管理系统\Backup\企业人事管理系统\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="企业人事管理系统" Source="企业人事管理系统\系统背景.cs" Description="文件已成功备份为 A:\电厂人事\企业人事管理系统_CODE\企业人事管理系统\Backup\企业人事管理系统\系统背景.cs">
+</Event><Event ErrorLevel="0" Project="企业人事管理系统" Source="企业人事管理系统\系统背景.Designer.cs" Description="文件已成功备份为 A:\电厂人事\企业人事管理系统_CODE\企业人事管理系统\Backup\企业人事管理系统\系统背景.Designer.cs">
+</Event><Event ErrorLevel="0" Project="企业人事管理系统" Source="企业人事管理系统\自定义字段.cs" Description="文件已成功备份为 A:\电厂人事\企业人事管理系统_CODE\企业人事管理系统\Backup\企业人事管理系统\自定义字段.cs">
+</Event><Event ErrorLevel="0" Project="企业人事管理系统" Source="企业人事管理系统\自定义字段.Designer.cs" Description="文件已成功备份为 A:\电厂人事\企业人事管理系统_CODE\企业人事管理系统\Backup\企业人事管理系统\自定义字段.Designer.cs">
+</Event><Event ErrorLevel="0" Project="企业人事管理系统" Source="企业人事管理系统\购买注册码.cs" Description="文件已成功备份为 A:\电厂人事\企业人事管理系统_CODE\企业人事管理系统\Backup\企业人事管理系统\购买注册码.cs">
+</Event><Event ErrorLevel="0" Project="企业人事管理系统" Source="企业人事管理系统\购买注册码.Designer.cs" Description="文件已成功备份为 A:\电厂人事\企业人事管理系统_CODE\企业人事管理系统\Backup\企业人事管理系统\购买注册码.Designer.cs">
+</Event><Event ErrorLevel="0" Project="企业人事管理系统" Source="企业人事管理系统\锁定窗体.cs" Description="文件已成功备份为 A:\电厂人事\企业人事管理系统_CODE\企业人事管理系统\Backup\企业人事管理系统\锁定窗体.cs">
+</Event><Event ErrorLevel="0" Project="企业人事管理系统" Source="企业人事管理系统\锁定窗体.Designer.cs" Description="文件已成功备份为 A:\电厂人事\企业人事管理系统_CODE\企业人事管理系统\Backup\企业人事管理系统\锁定窗体.Designer.cs">
+</Event><Event ErrorLevel="0" Project="企业人事管理系统" Source="企业人事管理系统\项目管理模板.cs" Description="文件已成功备份为 A:\电厂人事\企业人事管理系统_CODE\企业人事管理系统\Backup\企业人事管理系统\项目管理模板.cs">
+</Event><Event ErrorLevel="0" Project="企业人事管理系统" Source="企业人事管理系统\项目管理模板.Designer.cs" Description="文件已成功备份为 A:\电厂人事\企业人事管理系统_CODE\企业人事管理系统\Backup\企业人事管理系统\项目管理模板.Designer.cs">
+</Event><Event ErrorLevel="0" Project="企业人事管理系统" Source="企业人事管理系统\部门信息编辑.cs" Description="文件已成功备份为 A:\电厂人事\企业人事管理系统_CODE\企业人事管理系统\Backup\企业人事管理系统\部门信息编辑.cs">
+</Event><Event ErrorLevel="0" Project="企业人事管理系统" Source="企业人事管理系统\部门信息编辑.Designer.cs" Description="文件已成功备份为 A:\电厂人事\企业人事管理系统_CODE\企业人事管理系统\Backup\企业人事管理系统\部门信息编辑.Designer.cs">
+</Event><Event ErrorLevel="0" Project="企业人事管理系统" Source="企业人事管理系统\部门设置.cs" Description="文件已成功备份为 A:\电厂人事\企业人事管理系统_CODE\企业人事管理系统\Backup\企业人事管理系统\部门设置.cs">
+</Event><Event ErrorLevel="0" Project="企业人事管理系统" Source="企业人事管理系统\部门设置.Designer.cs" Description="文件已成功备份为 A:\电厂人事\企业人事管理系统_CODE\企业人事管理系统\Backup\企业人事管理系统\部门设置.Designer.cs">
+</Event><Event ErrorLevel="0" Project="企业人事管理系统" Source="企业人事管理系统\Properties\Settings.settings" Description="文件已成功备份为 A:\电厂人事\企业人事管理系统_CODE\企业人事管理系统\Backup\企业人事管理系统\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="企业人事管理系统" Source="企业人事管理系统\Resources\LOGO.jpg" Description="文件已成功备份为 A:\电厂人事\企业人事管理系统_CODE\企业人事管理系统\Backup\企业人事管理系统\Resources\LOGO.jpg">
+</Event><Event ErrorLevel="0" Project="企业人事管理系统" Source="企业人事管理系统\Resources\Desktop.ico" Description="文件已成功备份为 A:\电厂人事\企业人事管理系统_CODE\企业人事管理系统\Backup\企业人事管理系统\Resources\Desktop.ico">
+</Event><Event ErrorLevel="0" Project="企业人事管理系统" Source="企业人事管理系统\Resources\数据库.png" Description="文件已成功备份为 A:\电厂人事\企业人事管理系统_CODE\企业人事管理系统\Backup\企业人事管理系统\Resources\数据库.png">
+</Event><Event ErrorLevel="0" Project="企业人事管理系统" Source="企业人事管理系统\Resources\加号.jpg" Description="文件已成功备份为 A:\电厂人事\企业人事管理系统_CODE\企业人事管理系统\Backup\企业人事管理系统\Resources\加号.jpg">
+</Event><Event ErrorLevel="0" Project="企业人事管理系统" Source="企业人事管理系统\Resources\减号.jpg" Description="文件已成功备份为 A:\电厂人事\企业人事管理系统_CODE\企业人事管理系统\Backup\企业人事管理系统\Resources\减号.jpg">
+</Event><Event ErrorLevel="0" Project="企业人事管理系统" Source="企业人事管理系统\Resources\系统背景.jpg" Description="文件已成功备份为 A:\电厂人事\企业人事管理系统_CODE\企业人事管理系统\Backup\企业人事管理系统\Resources\系统背景.jpg">
+</Event><Event ErrorLevel="2" Project="企业人事管理系统" Source="企业人事管理系统\Resources\002.gif" Description="未能将文件备份为 A:\电厂人事\企业人事管理系统_CODE\企业人事管理系统\Backup\企业人事管理系统\Resources\002.gif">
+</Event><Event ErrorLevel="0" Project="企业人事管理系统" Source="企业人事管理系统\Resources\loading.gif" Description="文件已成功备份为 A:\电厂人事\企业人事管理系统_CODE\企业人事管理系统\Backup\企业人事管理系统\Resources\loading.gif">
+</Event><Event ErrorLevel="0" Project="企业人事管理系统" Source="企业人事管理系统\Resources\Business.jpg" Description="文件已成功备份为 A:\电厂人事\企业人事管理系统_CODE\企业人事管理系统\Backup\企业人事管理系统\Resources\Business.jpg">
+</Event><Event ErrorLevel="0" Project="企业人事管理系统" Source="企业人事管理系统\Resources\Banner.jpg" Description="文件已成功备份为 A:\电厂人事\企业人事管理系统_CODE\企业人事管理系统\Backup\企业人事管理系统\Resources\Banner.jpg">
+</Event><Event ErrorLevel="0" Project="企业人事管理系统" Source="企业人事管理系统\MDI主窗口.resx" Description="文件已成功备份为 A:\电厂人事\企业人事管理系统_CODE\企业人事管理系统\Backup\企业人事管理系统\MDI主窗口.resx">
+</Event><Event ErrorLevel="0" Project="企业人事管理系统" Source="企业人事管理系统\WaitForm.resx" Description="文件已成功备份为 A:\电厂人事\企业人事管理系统_CODE\企业人事管理系统\Backup\企业人事管理系统\WaitForm.resx">
+</Event><Event ErrorLevel="0" Project="企业人事管理系统" Source="企业人事管理系统\人事资料.resx" Description="文件已成功备份为 A:\电厂人事\企业人事管理系统_CODE\企业人事管理系统\Backup\企业人事管理系统\人事资料.resx">
+</Event><Event ErrorLevel="0" Project="企业人事管理系统" Source="企业人事管理系统\公司资料设置.resx" Description="文件已成功备份为 A:\电厂人事\企业人事管理系统_CODE\企业人事管理系统\Backup\企业人事管理系统\公司资料设置.resx">
+</Event><Event ErrorLevel="0" Project="企业人事管理系统" Source="企业人事管理系统\字段编辑.resx" Description="文件已成功备份为 A:\电厂人事\企业人事管理系统_CODE\企业人事管理系统\Backup\企业人事管理系统\字段编辑.resx">
+</Event><Event ErrorLevel="0" Project="企业人事管理系统" Source="企业人事管理系统\定位窗体.resx" Description="文件已成功备份为 A:\电厂人事\企业人事管理系统_CODE\企业人事管理系统\Backup\企业人事管理系统\定位窗体.resx">
+</Event><Event ErrorLevel="0" Project="企业人事管理系统" Source="企业人事管理系统\更改密码.resx" Description="文件已成功备份为 A:\电厂人事\企业人事管理系统_CODE\企业人事管理系统\Backup\企业人事管理系统\更改密码.resx">
+</Event><Event ErrorLevel="0" Project="企业人事管理系统" Source="企业人事管理系统\查询窗体.resx" Description="文件已成功备份为 A:\电厂人事\企业人事管理系统_CODE\企业人事管理系统\Backup\企业人事管理系统\查询窗体.resx">
+</Event><Event ErrorLevel="0" Project="企业人事管理系统" Source="企业人事管理系统\系统登陆.resx" Description="文件已成功备份为 A:\电厂人事\企业人事管理系统_CODE\企业人事管理系统\Backup\企业人事管理系统\系统登陆.resx">
+</Event><Event ErrorLevel="0" Project="企业人事管理系统" Source="企业人事管理系统\Properties\Resources.resx" Description="文件已成功备份为 A:\电厂人事\企业人事管理系统_CODE\企业人事管理系统\Backup\企业人事管理系统\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="企业人事管理系统" Source="企业人事管理系统\系统背景.resx" Description="文件已成功备份为 A:\电厂人事\企业人事管理系统_CODE\企业人事管理系统\Backup\企业人事管理系统\系统背景.resx">
+</Event><Event ErrorLevel="0" Project="企业人事管理系统" Source="企业人事管理系统\自定义字段.resx" Description="文件已成功备份为 A:\电厂人事\企业人事管理系统_CODE\企业人事管理系统\Backup\企业人事管理系统\自定义字段.resx">
+</Event><Event ErrorLevel="0" Project="企业人事管理系统" Source="企业人事管理系统\购买注册码.resx" Description="文件已成功备份为 A:\电厂人事\企业人事管理系统_CODE\企业人事管理系统\Backup\企业人事管理系统\购买注册码.resx">
+</Event><Event ErrorLevel="0" Project="企业人事管理系统" Source="企业人事管理系统\锁定窗体.resx" Description="文件已成功备份为 A:\电厂人事\企业人事管理系统_CODE\企业人事管理系统\Backup\企业人事管理系统\锁定窗体.resx">
+</Event><Event ErrorLevel="0" Project="企业人事管理系统" Source="企业人事管理系统\项目管理模板.resx" Description="文件已成功备份为 A:\电厂人事\企业人事管理系统_CODE\企业人事管理系统\Backup\企业人事管理系统\项目管理模板.resx">
+</Event><Event ErrorLevel="0" Project="企业人事管理系统" Source="企业人事管理系统\部门信息编辑.resx" Description="文件已成功备份为 A:\电厂人事\企业人事管理系统_CODE\企业人事管理系统\Backup\企业人事管理系统\部门信息编辑.resx">
+</Event><Event ErrorLevel="0" Project="企业人事管理系统" Source="企业人事管理系统\部门设置.resx" Description="文件已成功备份为 A:\电厂人事\企业人事管理系统_CODE\企业人事管理系统\Backup\企业人事管理系统\部门设置.resx">
+</Event><Event ErrorLevel="1" Project="企业人事管理系统" Source="企业人事管理系统\企业人事管理系统.csproj" Description="您的项目以 .NET Framework 2.0 或 3.0 为目标。如果您的项目使用的程序集需要更新的 .NET Framework，则项目生成将失败。通过单击项目菜单上的“属性”，然后在“.NET Framework”下拉框中选择一个新版本，可以更改 .NET Framework 的版本。(在 Visual Basic 中，可在单击“高级编辑器选项...”按钮时显示的“编译”选项卡上找到此下拉框。)">
+</Event><Event ErrorLevel="0" Project="企业人事管理系统" Source="企业人事管理系统\企业人事管理系统.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="企业人事管理系统" Source="企业人事管理系统\企业人事管理系统.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="企业人事管理系统.sln" Description="成功转换解决方案">
+</Event><Event ErrorLevel="3" Project="" Source="企业人事管理系统.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="企业人事管理系统" Source="企业人事管理系统\企业人事管理系统.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event></UpgradeLog>

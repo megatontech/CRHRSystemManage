@@ -1,0 +1,9 @@
+A:\电厂人事\MyOffice\MyOfficeBLL\bin\Debug\MyOfficeBLL.dll
+A:\电厂人事\MyOffice\MyOfficeBLL\bin\Debug\MyOfficeBLL.pdb
+A:\电厂人事\MyOffice\MyOfficeBLL\bin\Debug\MyOfficeDAL.dll
+A:\电厂人事\MyOffice\MyOfficeBLL\bin\Debug\MyOfficeModels.dll
+A:\电厂人事\MyOffice\MyOfficeBLL\bin\Debug\MyOfficeDAL.pdb
+A:\电厂人事\MyOffice\MyOfficeBLL\bin\Debug\MyOfficeModels.pdb
+A:\电厂人事\MyOffice\MyOfficeBLL\obj\Debug\MyOfficeBLL.csprojResolveAssemblyReference.cache
+A:\电厂人事\MyOffice\MyOfficeBLL\obj\Debug\MyOfficeBLL.dll
+A:\电厂人事\MyOffice\MyOfficeBLL\obj\Debug\MyOfficeBLL.pdb

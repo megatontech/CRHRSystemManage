@@ -1,0 +1,82 @@
+﻿<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<!-- saved from url=(0045)http://framework.supesoft.com/table/index.htm -->
+<HTML><HEAD><TITLE>FrameWork 数据库文档</TITLE>
+<META http-equiv=Content-Type content="text/html; charset=utf-8"><LINK 
+href="FrameWork 数据库文档.files/css.css" type=text/css rel=stylesheet>
+<SCRIPT language=JavaScript src="FrameWork 数据库文档.files/jquery.js" 
+type=text/javascript></SCRIPT>
+
+<META content="MSHTML 6.00.2900.3314" name=GENERATOR></HEAD>
+<BODY text=#000000 bgColor=#ffffff leftMargin=0 topMargin=0 scroll=no 
+marginheight="0" marginwidth="0">
+<TABLE height="100%" cellSpacing=0 cellPadding=0 width="100%" border=0>
+  <TBODY>
+  <TR>
+    <TD class=TitleColor width="100%" colSpan=3 height=63><SPAN 
+      class=HeadTitle>FrameWork 数据库文档</SPAN> </TD></TR>
+  <TR>
+    <TD id=frmTitle style="BORDER-RIGHT: #000000 1px solid" vAlign=center noWrap 
+    align=middle width=198 name="frmTitle"><IFRAME 
+      style="Z-INDEX: 2; VISIBILITY: inherit; WIDTH: 198px; HEIGHT: 100%" 
+      name=BoardTitle src="FrameWork 数据库文档.files/left.htm" 
+      frameBorder=0></IFRAME></TD>
+    <TD class=navPoint title=关闭/打开左栏 style="WIDTH: 10pt" width=10 
+      height="100%"><TABLE height="100%" cellSpacing=0 cellPadding=0 width=11 
+      align=right border=0>
+        <TBODY>
+        <TR>
+          <TD class=middleCss vAlign=center align=right><IMG id=menuimg 
+            style="CURSOR: pointer" height=76 alt=隐藏左栏 
+            src="FrameWork 数据库文档.files/close.gif" width=11 
+        border=0></TD></TR></TBODY></TABLE></TD>
+    <TD style="WIDTH: 100%"><IFRAME id=mainFrame 
+      style="Z-INDEX: 1; VISIBILITY: inherit; WIDTH: 100%; HEIGHT: 100%" 
+      name=mainFrame src="FrameWork 数据库文档.files/Table.htm" 
+      frameBorder=0></IFRAME></TD></TR>
+  <TR>
+    <TD colSpan=3 height=20>
+      <TABLE cellSpacing=0 cellPadding=0 width="100%" align=center border=0>
+        <TBODY>
+        <TR>
+          <TD bgColor=#000000 height=1></TD></TR>
+        <TR>
+          <TD class=ButtonColor height=18>Document Create By <A 
+            href="http://www.codeplex.com/DDBuildTools" 
+            target=_blank>DDBuildTools</A> ©2007 
+  </TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE>
+<SCRIPT language=javascript>
+// JavaScript Document
+var Temp_iii=0;
+$("#menuimg").click(function() {
+    $("#frmTitle").toggle();      
+	if (Temp_iii==0)
+	{
+	    $("#frmTitle").hide();
+	    $("#menuimg").attr("src","images/open.gif");
+	    $("#menuimg").attr("alt","显示左栏");
+	   Temp_iii=1; 
+	}		    
+	else
+	{
+	    
+	   	$("#frmTitle").show();
+	    $("#menuimg").attr("src","images/close.gif"); 
+	    $("#menuimg").attr("alt","隐藏左栏");
+	   Temp_iii=0; 
+	}
+});
+
+$("#menuimg").mouseover(function(){
+    if ($("#menuimg").attr("src")=="images/close.gif")
+        $("#menuimg").attr("src","images/close_on.gif");
+    if ($("#menuimg").attr("src")=="images/open.gif") 
+        $("#menuimg").attr("src","images/open_on.gif");
+});
+$("#menuimg").mouseout(function(){
+    if ($("#menuimg").attr("src")=="images/close_on.gif")
+        $("#menuimg").attr("src","images/close.gif");
+    if ($("#menuimg").attr("src")=="images/open_on.gif") 
+        $("#menuimg").attr("src","images/open.gif"); 
+});
+</SCRIPT>
+</BODY></HTML>

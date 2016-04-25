@@ -1,0 +1,7 @@
+A:\电厂人事\MyOffice\MyOfficeDAL\bin\Debug\MyOfficeDAL.dll
+A:\电厂人事\MyOffice\MyOfficeDAL\bin\Debug\MyOfficeDAL.pdb
+A:\电厂人事\MyOffice\MyOfficeDAL\bin\Debug\MyOfficeModels.dll
+A:\电厂人事\MyOffice\MyOfficeDAL\bin\Debug\MyOfficeModels.pdb
+A:\电厂人事\MyOffice\MyOfficeDAL\obj\Debug\MyOfficeDAL.csprojResolveAssemblyReference.cache
+A:\电厂人事\MyOffice\MyOfficeDAL\obj\Debug\MyOfficeDAL.dll
+A:\电厂人事\MyOffice\MyOfficeDAL\obj\Debug\MyOfficeDAL.pdb

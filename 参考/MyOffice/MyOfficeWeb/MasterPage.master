@@ -1,0 +1,164 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MasterPage.master.cs" Inherits="MasterPage" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head1" runat="server">
+    <title></title>
+    <link href="css/style.css" type="text/css" rel="stylesheet" />
+     <script type="text/javascript">
+     //定义全局变量
+	var bool;
+function GetAllCheckBox(checkAll){
+ var btnEnenable = document.getElementById("btnEnenable");
+ var btnEnable = document.getElementById("btnEnable");
+ var items=document.getElementsByTagName("input");  
+ for(i=0;i<items.length;i++){
+    if(items[i].type=="checkbox")
+    {
+       items[i].checked=checkAll.checked;
+     }   
+ }
+ 
+       
+} function GetCheckBox(){
+        var bool;
+        var button;
+        
+        var items=document.getElementsByTagName("input");
+            for(i=0;i<items.length;i++)
+            {
+                if(items[i].type=="checkbox")
+                {
+                    if(items[i].checked==true)
+                    {
+                        bool=false;
+                        break;
+                    }
+                    else
+                    {
+                        bool=true;
+                    }
+                }
+            }
+            for(i=0;i<items.length;i++)
+            {
+                
+                if(items[i].type=="submit")
+                {
+                    button=items[i];
+                    if(bool==false)
+                    {
+                        button.disabled=false;
+                    }
+                    else
+                    {
+                         button.disabled=true;
+                    }
+                }
+            }
+            
+            
+        }
+
+    </script>
+</head>
+<body style="margin-left: 0px; margin-top: 0px;">
+    <form id="form1" runat="server">
+        <div>
+            <div id="divRow1" style="width: 1024px; height: 590px;">
+            <!--左边开始-->
+                <asp:Panel ID="divLeftMenu" runat="server" style="float: left; text-align: left; 
+                    background-color: #6DC7FC;" Width="160px" Height="585px">
+                    <div align="center" style="background-color: #6DC7FC">
+                        <asp:ScriptManager ID="ScriptManager1" runat="server">
+                        </asp:ScriptManager>
+                        <asp:Timer ID="Timer1" Interval="2000" runat="server" OnTick="Timer1_Tick">
+                        </asp:Timer>
+                      
+
+                    </div>
+                    <div align="center" ID="divMessage" runat="server" style="width: 160px; background-color: #6DC7FC; height:200px;">
+                        <div align="left" style="width: 150px; background-color: #6dc7fc">
+                            &nbsp;<asp:Image ID="Image1" runat="server" ImageUrl="~/images/Users/WaterMark.png" /><br />
+                            &nbsp;&nbsp;&nbsp;欢迎：<asp:Label ID="LblUserName" runat="server" Font-Bold="True"></asp:Label><br />
+                            &nbsp;&nbsp;&nbsp;角色：<asp:Label ID="LblRoleName" runat="server" Font-Bold="False"></asp:Label><br />
+                            &nbsp;&nbsp;&nbsp;部门：<asp:Label ID="LblDepartName" runat="server" Font-Bold="False"></asp:Label><br />
+                            &nbsp;&nbsp; 机构：<asp:Label ID="LblBranchName" runat="server" Font-Bold="False"></asp:Label><br />
+                            <asp:UpdatePanel ID="UpdatePanel1" runat="server" UpdateMode="Conditional" >
+                                <ContentTemplate>
+                                    &nbsp; &nbsp;您共有&nbsp;<asp:Label ID="LblMessageCount" runat="server" Font-Bold="True"></asp:Label>&nbsp;条新消息
+                                    <asp:ImageButton ID="imgbtnMessage" ImageUrl="~/images/new.gif" runat="server" Width="28px"
+                                        Height="11px" Visible="False" CausesValidation="False" />
+                                </ContentTemplate>
+                                <Triggers>
+                                    <asp:AsyncPostBackTrigger ControlID="Timer1" EventName="Tick" />
+                                </Triggers>
+                            </asp:UpdatePanel>
+                        </div>
+                        <hr size="1" style="color:Gray;"/>
+                    </div>
+                    <div id="divMenu" runat="server" align="center" style="width: 160px; height:385px; background-color: #6dc7fc">
+                        <div style="width: 120px; height: 20px">
+                        </div>
+                        <div style="width: 140px;" >
+                            <asp:UpdatePanel ID="UpdatePanel2" runat="server" UpdateMode="Conditional">
+                                <ContentTemplate>
+                                    <asp:TreeView ID="TVSysFun" runat="server"  ExpandDepth="0" align="left" >                                  
+                                    </asp:TreeView>
+                                   
+                                </ContentTemplate>
+                            </asp:UpdatePanel>
+                        </div>
+                    </div>
+                </asp:Panel>
+                <!--左边结束-->
+               
+                <!--右边开始-->
+                <asp:Panel ID="divMainContent" runat="server" Height="100%" Width="850px">
+                    <div id="divChildRow1" style="width: 99%; height: 25px; padding-top: 0px">
+                        <div class="TopLine" style="width: 100%">
+                        </div>
+                        <div class="NoticeLine">
+                            <div style="float: left; width: 60%; height: 22px">
+                                <asp:ImageButton ID="imgbtnHome" ImageUrl="images/home.jpg" runat="server" Width="44px"
+                                    Height="21px" CausesValidation="False" OnClick="imgbtnHome_Click" />
+                                &nbsp;&nbsp;&nbsp;
+                                <asp:ImageButton ID="imgbtnRelogin" ImageUrl="images/Relogin.jpg" runat="server"
+                                    Width="68px" Height="21px" OnClick="imgbtnRelogin_Click" CausesValidation="False" />
+                                &nbsp;&nbsp;&nbsp;
+                                <asp:ImageButton ID="imgbtnUpdatePass" ImageUrl="images/modifypass.jpg" runat="server"
+                                    Width="68px" Height="21px" OnClick="imgbtnUpdatePass_Click" CausesValidation="False" />
+                                &nbsp;&nbsp;&nbsp;
+                                <asp:ImageButton ID="imgbtnHideTitle" ImageUrl="images/hidetitle.jpg" runat="server"
+                                    Width="107px" Height="22px" CausesValidation="False" OnClick="imgbtnHideTitle_Click" />
+                                &nbsp;&nbsp;&nbsp;
+                                <asp:ImageButton ID="imgbtnHelp" ImageUrl="images/help.jpg" runat="server" Width="44px"
+                                    Height="22px" Enabled="False" CausesValidation="False" />
+                            </div>
+                            <div style="float: left; width: 8%; height: 22px">
+                            </div>
+                            <div style="float: left; width: 20%; height: 22px" align="left">
+                                <asp:Image ID="img6" ImageUrl="images/smile.gif" runat="server" />&nbsp;<asp:Label
+                                    ID="LblTimeNow" runat="server" ForeColor="#C0FFFF" Width="180px"></asp:Label>
+                            </div>
+                        </div>
+                        当前位置：<asp:SiteMapPath ID="SiteMapPath1" runat="server">
+                        </asp:SiteMapPath>
+                    </div>
+                    <div style="width: 99%">
+                        <asp:ContentPlaceHolder ID="cphOffice" runat="server">
+                        </asp:ContentPlaceHolder>
+                    </div>
+                </asp:Panel>
+                <!--右边结束-->
+            </div>
+            <!--下边-->
+            <div id="divRow2" class="TopLine" style="width: 1010px;">
+            </div>
+            <div id="divBottom" style="width: 1010px; height: 22px; background-color: #99bcec;
+                text-align: center; color: #002877;">
+                版权所有：北京阿博泰克北大青鸟信息技术有限公司—产品研发部</div>
+        </div>
+    </form>
+</body>
+</html>

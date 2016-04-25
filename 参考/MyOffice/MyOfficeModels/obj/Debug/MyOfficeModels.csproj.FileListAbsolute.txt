@@ -1,0 +1,4 @@
+A:\电厂人事\MyOffice\MyOfficeModels\bin\Debug\MyOfficeModels.dll
+A:\电厂人事\MyOffice\MyOfficeModels\bin\Debug\MyOfficeModels.pdb
+A:\电厂人事\MyOffice\MyOfficeModels\obj\Debug\MyOfficeModels.dll
+A:\电厂人事\MyOffice\MyOfficeModels\obj\Debug\MyOfficeModels.pdb
